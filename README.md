@@ -7,13 +7,13 @@ https://didattica.unipd.it/off/2018/LT/IN/IN2374
 Se vai su uniweb, in status studente, vedrai che sei impostato in una classe di laurea (L8 o L9). Facendo richiesta all’Ufficio Segreteria Carriere si può passare da una classe all’altra.
 Il curriculum lo trovi sotto la voce **Percorso**.
 ![status studente](/img/status_studente.png)
-/img/status_studente.png
 
 ## Quali sono gli esami obbligatori?
 Tutti del primo e del secondo anno. Del terzo anno sono obbligatori solo:
-Fondamenti di automatica (9 CFU)
-Biomeccanica (9 CFU)
-Tecnologia e strumentazione biomedica (9 CFU)
+- Fondamenti di automatica (9 CFU)
+- Biomeccanica (9 CFU)
+- Tecnologia e strumentazione biomedica (9 CFU)
+
 Poi ovviamente ci sono i 15 CFU a scelta vincolata e altri almeno 15 CFU liberi (anche 18, volendo, facendo due esami da 9 CFU o tre da 6 CFU).
 
 ## Che differenza c’è tra i due curriculum?
@@ -25,10 +25,12 @@ Si. Se non lo vuoi fare devi cambiare curriculum. I termini di scadenza sono qua
 ## Sto facendo il curriculum generale, posso fare il tirocinio?
 No. Se lo vuoi fare devi cambiare il curriculum. I termini di scadenza sono qua:
 https://www.unipd.it/cambio-curriculum
+
 In caso esiste anche la possibilità di fare il tirocinio senza CFU. Si possono chiedere più informazioni alla segreteria del DEI.
 
 ## Come si fa a cambiare il curriculum?
 Attualmente si compila il modulo di cambio curriculum e si manda via mail con una scansione di un documento di identità a carriere.studenti@unipd.it o anche a ingegneria.studenti@unipd.it
+
 In presenza bisogna andare all’Ufficio carriere in via Lungoargine Piovego 2, serve il modulo e la fotocopia del documento di identità.
 Termini e scadenze qua: https://www.unipd.it/cambio-curriculum
 
@@ -44,7 +46,8 @@ Le classi ti inquadrano (assieme al curriculum) nella scelta degli esami da dare
 ### Per il CURRICULUM Applicativo:
   - Se sei L8 puoi SOLO scegliere il percorso 1, e cioè solo Informatica Medica e tirocinio.
   - Se sei L9, puoi il percorso 2, e cioè di fare solo uno dei due: o Meccanica dei Materiali (e tirocinio) o Meccanica per Bioingegneria (e tirocinio). 
-
+  
+![curriculum](/img/curriculum.png)
 
 
 
@@ -52,12 +55,14 @@ Le classi ti inquadrano (assieme al curriculum) nella scelta degli esami da dare
 
 ## Come si fa a cambiare la classe?
 Attualmente si  compila il modulo di cambio classe che trovi qua: https://www.unipd.it/cambio-classe
+
 Si manda via mail assieme a fotocopia del documento di identità a carriere.studenti@unipd.it o anche a ingegneria.studenti@unipd.it
+
 In presenza bisogna andare all’Ufficio carriere in via Lungoargine Piovego 2, serve il modulo e la fotocopia del documento di identità.
 
 ## Posso cambiare cambiare la classe in qualsiasi momento/anno di studio?
-Bho. Cioè dipende, perché c’è sempre un termine di scadenza che però in circostanze come quelle attuali (post pandemia) potrebbero essere estesi. I termini di scadenza attuali sono presenti qua:
-https://www.unipd.it/cambio-classe
+Bho. Cioè dipende, perché c’è sempre un termine di scadenza che però in circostanze come quelle attuali (post pandemia) potrebbero essere estesi. I termini di scadenza attuali sono presenti qua: https://www.unipd.it/cambio-classe
+
 Conviene mandare una mail alla segreteria del DEI per avere conferma.
 
 ## Fare un curriculum o l’altro limita l’accesso alla magistrale?
@@ -65,6 +70,8 @@ No. E’ una laurea. Solo che con il tirocinio cerca di preparere un poco per il
 
 ## Fare il curriculum applicativo mi consente di togliere un qualsiasi esame?
 Non esattamente. Se sei parte di un curriculum o l’altro, puoi scegliere solo uno dei 3 percorsi indicati: 
+
+![curriculum](/img/curriculum.png)
 
 ## Di default, se non specifichi il tuo percorso, vieni assegnato al percorso 1.
 Facendo il piano di studi è molto più facile da capire.
@@ -76,13 +83,15 @@ Di solito da Dicembre a Settembre dell’anno successivo.
 
 ## Che differenza c’è tra i 15 CPU vincolati e quelli liberi?
 Quelli vincolati li devi dare, definito dal percorso scelto, che a sua volta è definito dalla tua classe di appartenenza e dal curriculum di appartenenza.
+
 Quelli a scelta libera (anche se di percorso diverso) possono essere comunque scelti come CFU liberi durante la compilazione del piano di studi. 
+
 Compilando il piano di studi le cose diventano molto più chiare.
-Guida sulla compilazione del piano di studi: www.astro.unipd.it/studenti/uniweb_PIANI_UNI
+
+***Guida sulla compilazione del piano di studi***: www.astro.unipd.it/studenti/uniweb_PIANI_UNI
 WEB_MANUALE.pdf
   
 ## Quali sono gli esami a libera scelta?
-  
 - ELABORAZIONE DI SEGNALI BIOMEDICI  (6 CFU)
 - MECCANICA PER BIOINGEGNERIA (9 CFU)
 - LABORATORIO DI INGEGNERIA CELLULARE  (6 CFU)
@@ -90,9 +99,11 @@ WEB_MANUALE.pdf
 - BIOINGEGNERIA DEL MOVIMENTO  (6 CFU)
 - MECCANICA DEI MATERIALI (9 CFU)
   
+  
 - BIOELETTROMAGNETISMO   (6 CFU)
 - MISURE ED ACQUISIZIONE DATI BIOMEDICI  (6 CFU)
 PROJECT MANAGEMENT  (6 CFU)
+  
   
 - ed esami che NON sono di Ingegneria Biomedica (ma che siano dell’ambito Ingegneristico) che siano stati sottomessi e approvati dalla Segreteria del DEI (la cui referente per le Carriere è la professoressa Saccomani https://www.dei.unipd.it/persona/0A7F06976D2D39F73AEDD095D97CF91A) attraverso il piano di studi ad approvazione. 
 
