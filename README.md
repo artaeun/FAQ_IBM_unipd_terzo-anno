@@ -38,12 +38,12 @@ Termini e scadenze qua: https://www.unipd.it/cambio-curriculum
 Se vuoi fare la magistrale di Bioingegneria a Padova non ti cambia niente se non gli esami che puoi dare. Ma se se vuoi fare per esempio una laurea di Ingegneria Industriale (fuori o dentro Padova) è probabile che ti verrà chiesta una classe L9. O magari di integrare qualche esame per poter fare richiesta di ammissione al corso. Queste informazioni si possono trovare sul bando di ammissione al corso di studi magistrale che si vorrà intraprendere. 
 
 ## Che differenza c’è tra le “classi”?
-Le classi ti inquadrano (assieme al curriculum) nella scelta degli esami da dare per i 15 CFU a scelta vincolata del terzo anno:
+Le classi ti inquadrano (assieme al curriculum) nella scelta degli esami da dare per i **15 CFU a scelta vincolata** del terzo anno:
 
-### Per il CURRICULUM Generale:
+### Per il CURRICULUM *Generale*:
   - Se sei CLASSE L8, puoi scegliere il percorso 1 o il percorso 3 (ma non il percorso 2).
   - Se sei CLASSE L9, puoi scegliere il percorso 2 o il percorso 3 (ma non il percorso 1).
-### Per il CURRICULUM Applicativo:
+### Per il CURRICULUM *Applicativo*:
   - Se sei L8 puoi SOLO scegliere il percorso 1, e cioè solo Informatica Medica e tirocinio.
   - Se sei L9, puoi il percorso 2, e cioè di fare solo uno dei due: o Meccanica dei Materiali (e tirocinio) o Meccanica per Bioingegneria (e tirocinio). 
   
@@ -73,7 +73,8 @@ Non esattamente. Se sei parte di un curriculum o l’altro, puoi scegliere solo 
 
 ![curriculum](/img/curriculum.png)
 
-## Di default, se non specifichi il tuo percorso, vieni assegnato al percorso 1.
+
+Di default, se non specifichi il tuo percorso, vieni assegnato al percorso 1.
 Facendo il piano di studi è molto più facile da capire.
 
 ## Quando si compila il piano di studi?
@@ -99,17 +100,19 @@ WEB_MANUALE.pdf
 - BIOINGEGNERIA DEL MOVIMENTO  (6 CFU)
 - MECCANICA DEI MATERIALI (9 CFU)
   
+  ---
   
 - BIOELETTROMAGNETISMO   (6 CFU)
 - MISURE ED ACQUISIZIONE DATI BIOMEDICI  (6 CFU)
 PROJECT MANAGEMENT  (6 CFU)
-  
+
+  ---
   
 - ed esami che NON sono di Ingegneria Biomedica (ma che siano dell’ambito Ingegneristico) che siano stati sottomessi e approvati dalla Segreteria del DEI (la cui referente per le Carriere è la professoressa Saccomani https://www.dei.unipd.it/persona/0A7F06976D2D39F73AEDD095D97CF91A) attraverso il piano di studi ad approvazione. 
 
 
 ## Quanti esami a libera scelta posso dare?
-Puoi combinarli come ti pare, basta garantire  15 ≤ CFU ≤ 18 
+Puoi combinarli come ti pare, basta garantire  ***15 ≤ CFU ≤ 18 ***
 
 ## Materie fatte in carriere precedenti possono valere come crediti liberi?
 Se già approvati tramite domanda riconoscimento preventiva e già caricati a libretto; verrà poi data possibilità di aggiungerli durante la compilazione del piano di studi.
