@@ -6,7 +6,7 @@ https://didattica.unipd.it/off/2018/LT/IN/IN2374
 ## **Cosa faccio a sapere che classe e curriculum sono?**
 Se vai su uniweb, in status studente, vedrai che sei impostato in una classe di laurea (L8 o L9). Facendo richiesta all’Ufficio Segreteria Carriere si può passare da una classe all’altra.
 Il curriculum lo trovi sotto la voce **Percorso**.
-![alt text](https://github.com/artaeun/FAQ_IBM_unipd_terzo-anno/tree/master/img/status_studente.png?raw=true)
+![status studente](/img/status_studente.png)
 /img/status_studente.png
 
 ## Quali sono gli esami obbligatori?
