@@ -112,7 +112,7 @@ PROJECT MANAGEMENT  (6 CFU)
 
 
 ## Quanti esami a libera scelta posso dare?
-Puoi combinarli come ti pare, basta garantire  ***15 ≤ CFU ≤ 18 ***
+Puoi combinarli come ti pare, basta garantire   **15 ≤ CFU ≤ 18**
 
 ## Materie fatte in carriere precedenti possono valere come crediti liberi?
 Se già approvati tramite domanda riconoscimento preventiva e già caricati a libretto; verrà poi data possibilità di aggiungerli durante la compilazione del piano di studi.
