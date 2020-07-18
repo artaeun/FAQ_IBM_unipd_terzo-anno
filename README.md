@@ -1,6 +1,6 @@
 # **<p align="center">Classe e Curriculum</p>**
 
-## Indice:
+## *Indice*:
 - [Dove trovo tutte le info?](#dove-trovo-informazioni-sugli-esami-che-posso-teneresemestri-delle-lezionidocenti-del-corsosyllabuspercorso-formativo)
 - ***[Curriculum](#curriculum)***
   - [Che curriculum e classe sono?](#come-faccio-a-sapere-che-classe-e-curriculum-sono)
