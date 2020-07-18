@@ -137,7 +137,7 @@ Conviene mandare una mail alla segreteria del DEI per avere conferma.
 ## *Piano di studi*
 
 ### Quando si compila il piano di studi?
-Di solito da Dicembre a Settembre dell’anno successivo.
+Di solito da Dicembre a Settembre dell’anno successivo. Trovi tutte le informazioni relative qui: https://elearning.dei.unipd.it/mod/book/view.php?id=3&chapterid=7
 
 
 ### Che differenza c’è tra i 15 CPU vincolati e quelli liberi?
