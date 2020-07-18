@@ -24,7 +24,7 @@
 - ***[Piano di studi](#piano-di-studi)***
   - [Quando si compila il piano di studi?](#quando-si-compila-il-piano-di-studi)
   - [Come si compila il piano di studi?](#come-si-compila-il-piano-di-studi)
-  - [Che differenza c’è tra i 15 CPU vincolati e quelli liberi?](#che-differenza-cè-tra-i-15-cpu-vincolati-e-quelli-liberi)
+  - [Che differenza c’è tra i 15 CFU vincolati e quelli liberi?](#che-differenza-cè-tra-i-15-cfu-vincolati-e-quelli-liberi)
     - [Quali sono gli esami a libera scelta?](#quali-sono-gli-esami-a-libera-scelta)
     - [Posso dare altri esami che non siano della facoltà di Ingegneria Biomedica? Come si fa?](#posso-dare-altri-esami-che-non-siano-della-facoltà-di-ingegneria-biomedica-come-si-fa)
     - [Perché alcuni esami sono ad accesso programmato? Come mi inscrivo?](#perché-alcuni-esami-sono-ad-accesso-programmato-come-mi-inscrivo)
@@ -168,7 +168,7 @@ Di solito da Dicembre a Settembre dell’anno successivo. Trovi tutte le informa
 
 ---
 
-### Che differenza c’è tra i 15 CPU vincolati e quelli liberi?
+### Che differenza c’è tra i 15 CFU vincolati e quelli liberi?
 Quelli vincolati li devi dare, definito dal percorso scelto, che a sua volta è definito dalla tua classe di appartenenza e dal curriculum di appartenenza.
 
 Quelli a scelta libera (anche se di percorso diverso) possono essere comunque scelti come CFU liberi durante la compilazione del piano di studi. 
@@ -210,7 +210,7 @@ Tecnicamente si, basta che siano dell'ambito Ingegneristico o che ci siano le pr
 
 Per farlo bisogna che siano stati sottomessi e approvati dalla Segreteria del DEI (la cui referente per le Carriere è la professoressa Saccomani https://www.dei.unipd.it/persona/0A7F06976D2D39F73AEDD095D97CF91A) attraverso il piano di studi ad approvazione. 
 
-Questi esami contano solo verso la somma totale di **crediti a libera scelta**.
+Questi esami contano solo verso la somma totale di **crediti a libera scelta**. Volendo, si possono avere tutti esami esterni come crediti a libera scelta, basta che siano approvati.
 
 ---
 
@@ -251,15 +251,16 @@ Il tirocinio dura 2 mesi.
 ### Indicazioni generali
 
 Che esami devo dare?
-1. Bisogna (ovviamente) dare tutti quelli obbligatori.
-2. Scelto un percorso come visto [qui](#che-differenza-cè-tra-le-varie-classi), si devono dare tutti quelli vincolati.
+1. Bisogna (ovviamente) dare ***tutti quelli obbligatori***.
+2. Scelto un percorso come visto [qui](#che-differenza-cè-tra-le-varie-classi), si devono dare ***tutti quelli vincolati***.
 
 	Per il curriculum applicativo il **Tirocinio** è vincolante, ma si può fare in un momento qualsiasi dell'anno e sapete che dura 2 mesi. L'importante è che rispetti i criteri stabiliti da UniPd. Trovate tutte le informazioni, linee guida e modalità  [qui](https://elearning.dei.unipd.it/mod/book/view.php?id=3&chapterid=37).
 	
-3. Si deve fare la somma (in un anno) di 15 crediti (o 18) tra gli esami liberi o anche tra gli esami non appartenenti ad IBM che siano stati sottomessi e approvati dalla Segreteria del DEI attraverso il piano di studi ad approvazione ([questa domanda](#posso-dare-altri-esami-che-non-siano-della-facoltà-di-ingegneria-biomedica-come-si-fa)) risponderà ai vostri dubbi). Quindi si possono avere:
-  - Esame da 6 crediti + Esame 9 crediti
-  - Esame da 9 crediti + Esame 9 crediti
-  - Esame da 6 crediti + Esame 6 crediti + Esame 6 crediti
+3. Si deve fare la somma (in un anno) di ***15 (o 18) CFU tra gli esami liberi*** *o anche tra gli esami non appartenenti ad IBM che siano stati sottomessi e approvati dalla Segreteria del DEI attraverso il piano di studi ad approvazione* ([questa domanda](#posso-dare-altri-esami-che-non-siano-della-facoltà-di-ingegneria-biomedica-come-si-fa)) risponderà ai vostri dubbi). Quindi si possono avere:
+
+  - Esame da 6 crediti + Esame 9 crediti = 15 CFU
+  - Esame da 9 crediti + Esame 9 crediti = 18 CFU
+  - Esame da 6 crediti + Esame 6 crediti + Esame 6 crediti = 18 CFU
 
 
 Ovviamente se avete voglia potete farne tre da 6 crediti in un solo semestre o suddividerli.
