@@ -34,14 +34,14 @@
 
 - ***[Aiuto! Come posso strutturare i miei corsi?](#aiuto-come-posso-strutturare-i-miei-corsi)***
 	- [Indicazioni generali](#indicazioni-generali)
-	- [Curriculum Generale](#Curriculum-Generale)
-		- [Curriculum Generale, classe L8, percorso 1](#curriculum-generale-classe-l8-percorso-1)
-		- [Curriculum Generale, classe L9, percorso 2](#curriculum-generale-classe-l9-percorso-2)
-		- [Curriculum Generale, classe L8 o classe L9, percorso 3](#curriculum-generale-classe-l8-o-classe-l9-percorso-3)
-	- [Curriculum Curriculum Applicativo (con Tirocinio)](#curriculum-applicativo-con-tirocinio)
-		- [Curriculum Applicativo, classe L8, percorso 1](#curriculum-applicativo-classe-l8-percorso-1)
-		- [Curriculum Applicativo, classe L9, percorso 2](#curriculum-applicativo-classe-l9-percorso-2)
-		- [Curriculum Applicativo, classe L9, percorso 2-bis (in pratica percorso 3)](#curriculum-applicativo-classe-l9-percorso-2-bis-in-pratica-percorso-3)
+	- [Curriculum ***Generale***](#Curriculum-Generale)
+		- [Curriculum *Generale*, classe **L8**, percorso 1](#curriculum-generale-classe-l8-percorso-1)
+		- [Curriculum *Generale*, classe **L9**, percorso 2](#curriculum-generale-classe-l9-percorso-2)
+		- [Curriculum *Generale*, classe **L8 o L9**, percorso 3](#curriculum-generale-classe-l8-o-classe-l9-percorso-3)
+	- [Curriculum Curriculum ***Applicativo*** (con Tirocinio)](#curriculum-applicativo-con-tirocinio)
+		- [Curriculum *Applicativo*, classe **L8**, percorso 1](#curriculum-applicativo-classe-l8-percorso-1)
+		- [Curriculum *Applicativo*, classe **L9**, percorso 2](#curriculum-applicativo-classe-l9-percorso-2)
+		- [Curriculum *Applicativo*, classe **L9**, percorso 2-bis (in pratica percorso 3)](#curriculum-applicativo-classe-l9-percorso-2-bis-in-pratica-percorso-3)
 
 ---
 
