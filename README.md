@@ -26,7 +26,9 @@
   - [Come si compila il piano di studi?](#come-si-compila-il-piano-di-studi)
   - [Che differenza c’è tra i 15 CFU vincolati e quelli liberi?](#che-differenza-cè-tra-i-15-cfu-vincolati-e-quelli-liberi)
     - [Quali sono gli esami a libera scelta?](#quali-sono-gli-esami-a-libera-scelta)
+  	-[Quanti esami a libera scelta posso dare?](#quanti-esami-a-libera-scelta-posso-dare)
     - [Posso dare altri esami che non siano della facoltà di Ingegneria Biomedica? Come si fa?](#posso-dare-altri-esami-che-non-siano-della-facoltà-di-ingegneria-biomedica-come-si-fa)
+    	
     - [Perché alcuni esami sono ad accesso programmato? Come mi inscrivo?](#perché-alcuni-esami-sono-ad-accesso-programmato-come-mi-inscrivo)
   - [Materie fatte in carriere precedenti possono valere come crediti liberi?](#materie-fatte-in-carriere-precedenti-possono-valere-come-crediti-liberi)
   - [Ma per il tirocinio come si fa? Quando si fa? Quanto dura?](#ma-per-il-tirocinio-come-si-fa-quando-si-fa-quanto-dura)
@@ -200,7 +202,14 @@ Tutti quelli della lista seguente (escludendo quelli che sono vincolati, e quind
 - Bioelettromagnetismo (6 CFU)
 
 ***Nota bene***
-- sono inclusi in questa lista anche ***esami che NON sono di Ingegneria Biomedica***. Vedere la domanda successiva per più informazioni.
+- sono inclusi in questa lista anche ***esami che NON sono di Ingegneria Biomedica***. Vedere [questa domanda](#posso-dare-altri-esami-che-non-siano-della-facoltà-di-ingegneria-biomedica-come-si-fa) per più informazioni.
+
+---
+
+### Quanti esami a libera scelta posso dare?
+Puoi combinarli come ti pare, basta garantire   **15 ≤ CFU ≤ 18**
+
+Se la cosa ti lascia un po' basito, dai un'occhiata [qui](#aiuto-come-posso-strutturare-i-miei-corsi). Potrai vedere strutturati tutti i percorsi possibili con esami obbligatori e vincolati del curriculum e della propria classe. Puoi scegliere più velocemente il percorso passando per [l'indice](#indice) ma consigliamo comunque una lettura veloce delle [indicazioni generali](#indicazioni-generali).
 
 ---
 
@@ -214,12 +223,6 @@ Questi esami contano solo verso la somma totale di **crediti a libera scelta**. 
 
 ---
 
-### Quanti esami a libera scelta posso dare?
-Puoi combinarli come ti pare, basta garantire   **15 ≤ CFU ≤ 18**
-
-Se la cosa ti lascia un po' basito, dai un'occhiata [qui](#aiuto-come-posso-strutturare-i-miei-corsi). Potrai vedere strutturati tutti i percorsi possibili con esami obbligatori e vincolati del curriculum e della propria classe. Puoi scegliere più velocemente il percorso passando per [l'indice](#indice) ma consigliamo comunque una lettura veloce delle [indicazioni generali](#indicazioni-generali).
-
----
 
 ### Perché alcuni esami sono ad accesso programmato? Come mi inscrivo?
 
