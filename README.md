@@ -42,7 +42,7 @@
 		- [Curriculum *Applicativo*, classe **L8**, percorso 1](#curriculum-applicativo-classe-l8-percorso-1)
 		- [Curriculum *Applicativo*, classe **L9**, percorso 2](#curriculum-applicativo-classe-l9-percorso-2)
 		- [Curriculum *Applicativo*, classe **L9**, percorso 2-bis (in pratica percorso 3)](#curriculum-applicativo-classe-l9-percorso-2-bis-in-pratica-percorso-3)
-
+- ***[Ho trovato un errore in questa guida. Come posso contribuire?]()***
 ---
 
 ### **Dove trovo informazioni sugli esami che posso tenere/semestri delle lezioni/docenti del corso/syllabus/percorso formativo?**
@@ -288,7 +288,7 @@ In caso di dubbi rivedere le [indicazioni generale](#indicazioni-generali).
   - Laboratorio di Ingegneria Cellulare (6 CFU)
   - Misure ed Acquisizione di Dati Biomedici (6 CFU)
   - Project Managment (6 CFU)
-  - altri non appartenenti a IBM (vedere [qui](#quali-sono-gli-esami-a-libera-scelta))
+  - altri non appartenenti a IBM (vedere [qui](#posso-dare-altri-esami-che-non-siano-della-facoltà-di-ingegneria-biomedica-come-si-fa))
   
 ***Semestre 2***
 - *Obbligatori*:
@@ -299,7 +299,7 @@ In caso di dubbi rivedere le [indicazioni generale](#indicazioni-generali).
 	- Bioingegneria del movimento (6 CFU)
 	- Meccanica dei Materiali (9 CFU)
 	- Bioelettromagnetismo (6 CFU)
-  - altri non appartenenti a IBM (vedere [qui](#quali-sono-gli-esami-a-libera-scelta))
+  	- altri non appartenenti a IBM (vedere [qui](#posso-dare-altri-esami-che-non-siano-della-facoltà-di-ingegneria-biomedica-come-si-fa))
 
 ---
 
@@ -321,7 +321,7 @@ In caso di dubbi rivedere le [indicazioni generale](#indicazioni-generali).
 	- Meccanica Per Bioingegneria (9 CFU)
 	- Misure ed Acquisizione di Dati Biomedici (6 CFU)
 	- Project Managment (6 CFU)
-	- altri non appartenenti a IBM (vedere [qui](#quali-sono-gli-esami-a-libera-scelta))
+ 	   - altri non appartenenti a IBM (vedere [qui](#posso-dare-altri-esami-che-non-siano-della-facoltà-di-ingegneria-biomedica-come-si-fa))
   
 ***Semestre 2***
 - *Obbligatori*:
@@ -334,7 +334,7 @@ In caso di dubbi rivedere le [indicazioni generale](#indicazioni-generali).
 	- Informatica Medica (9 CFU)
 	- Bioingegneria del movimento (6 CFU)
 	- Bioelettromagnetismo (6 CFU)
-	- altri non appartenenti a IBM (vedere [qui](#quali-sono-gli-esami-a-libera-scelta))
+	  - altri non appartenenti a IBM (vedere [qui](#posso-dare-altri-esami-che-non-siano-della-facoltà-di-ingegneria-biomedica-come-si-fa))
   
 ---
  
@@ -356,7 +356,7 @@ In caso di dubbi rivedere le [indicazioni generale](#indicazioni-generali).
 	- Laboratorio di Ingegneria Cellulare (6 CFU)
 	- Misure ed Acquisizione di Dati Biomedici (6 CFU)
 	- Project Managment (6 CFU)
-	- altri non appartenenti a IBM (vedere [qui](#quali-sono-gli-esami-a-libera-scelta))
+	  - altri non appartenenti a IBM (vedere [qui](#posso-dare-altri-esami-che-non-siano-della-facoltà-di-ingegneria-biomedica-come-si-fa))
 
  
 ***Semestre 2***
@@ -371,7 +371,7 @@ In caso di dubbi rivedere le [indicazioni generale](#indicazioni-generali).
 
 	- Meccanica dei Materiali (9 CFU)
 	- Bioelettromagnetismo (6 CFU)
-	- altri non appartenenti a IBM (vedere [qui](#quali-sono-gli-esami-a-libera-scelta))
+	- altri non appartenenti a IBM (vedere [qui](#posso-dare-altri-esami-che-non-siano-della-facoltà-di-ingegneria-biomedica-come-si-fa))
   
 ---
 
@@ -395,7 +395,7 @@ In caso di dubbi rivedere le [indicazioni generale](#indicazioni-generali).
 	- Laboratorio di Ingegneria Cellulare (6 CFU)
 	- Misure ed Acquisizione di Dati Biomedici (6 CFU)
 	- Project Managment (6 CFU)
-	- altri non appartenenti a IBM (vedere [qui](#quali-sono-gli-esami-a-libera-scelta))
+	- altri non appartenenti a IBM (vedere [qui](#posso-dare-altri-esami-che-non-siano-della-facoltà-di-ingegneria-biomedica-come-si-fa))
  
 ***Semestre 2***
 
@@ -409,7 +409,7 @@ In caso di dubbi rivedere le [indicazioni generale](#indicazioni-generali).
 	- Bioingegneria del movimento (6 CFU)
 	- Meccanica dei Materiali (9 CFU)
 	- Bioelettromagnetismo (6 CFU)
-	- altri non appartenenti a IBM (vedere [qui](#quali-sono-gli-esami-a-libera-scelta))
+	- altri non appartenenti a IBM (vedere [qui](#posso-dare-altri-esami-che-non-siano-della-facoltà-di-ingegneria-biomedica-come-si-fa))
 
 ***Annuale***
 - *Vincolante*:
@@ -434,7 +434,7 @@ In caso di dubbi rivedere le [indicazioni generale](#indicazioni-generali).
 	- Laboratorio di Ingegneria Cellulare (6 CFU)
 	- Misure ed Acquisizione di Dati Biomedici (6 CFU)
 	- Project Managment (6 CFU)
-	- altri non appartenenti a IBM (vedere [qui](#quali-sono-gli-esami-a-libera-scelta))
+	- altri non appartenenti a IBM (vedere [qui](#posso-dare-altri-esami-che-non-siano-della-facoltà-di-ingegneria-biomedica-come-si-fa))
  
 ***Semestre 2***
 
@@ -448,7 +448,7 @@ In caso di dubbi rivedere le [indicazioni generale](#indicazioni-generali).
 	- Informatica Medica (9 CFU)
 	- Bioingegneria del movimento (6 CFU)
 	- Bioelettromagnetismo (6 CFU)
-	- altri non appartenenti a IBM (vedere [qui](#quali-sono-gli-esami-a-libera-scelta))
+	- altri non appartenenti a IBM (vedere [qui](#posso-dare-altri-esami-che-non-siano-della-facoltà-di-ingegneria-biomedica-come-si-fa))
   
 ***Annuale***
 - *Vincolante*:
@@ -475,7 +475,7 @@ In caso di dubbi rivedere le [indicazioni generale](#indicazioni-generali).
 	- Laboratorio di Ingegneria Cellulare (6 CFU)
 	- Misure ed Acquisizione di Dati Biomedici (6 CFU)
 	- Project Managment (6 CFU) (ad accesso programmato)
-	- altri non appartenenti a IBM (vedere [qui](#quali-sono-gli-esami-a-libera-scelta))
+	- altri non appartenenti a IBM (vedere [qui](#posso-dare-altri-esami-che-non-siano-della-facoltà-di-ingegneria-biomedica-come-si-fa))
 
  
 ***Semestre 2***
@@ -487,9 +487,13 @@ In caso di dubbi rivedere le [indicazioni generale](#indicazioni-generali).
 	- Bioingegneria del movimento (6 CFU)
 	- Meccanica dei Materiali (9 CFU)
 	- Bioelettromagnetismo (6 CFU)
-	- altri non appartenenti a IBM (vedere [qui](#quali-sono-gli-esami-a-libera-scelta))
+	- altri non appartenenti a IBM (vedere [qui](#posso-dare-altri-esami-che-non-siano-della-facoltà-di-ingegneria-biomedica-come-si-fa))
   
 ***Annuale***
 - *Vincolante*:
   - Tirocinio (6 CFU)
  
+ ---
+   
+ ## **<p align="center">Ho trovato un errore in questa guida. Come posso contribuire?</p>** 
+Se sei famigliare con GitHub sai già rispondere a questa domanda. Altrimenti puoi mandarmi una mail ad alexandru.mihailescu&studenti.unipd.it (metti una chiocciola al posto del ***&***) e vedrò di correggerlo al più presto.
