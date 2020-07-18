@@ -268,8 +268,6 @@ Che esami devo dare?
   - Esame da 6 crediti + Esame 6 crediti + Esame 6 crediti = 18 CFU
 
 
-Ovviamente se avete voglia potete farne tre da 6 crediti in un solo semestre o suddividerli.
-
 Ricordate inoltre che di default, se non specifichi il tuo percorso, vieni assegnato al percorso 1. Si sceglie tutto poi impostando il piano di studi.
 
 
