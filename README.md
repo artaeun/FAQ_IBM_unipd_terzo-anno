@@ -6,24 +6,25 @@
   - [Che curriculum e classe sono?](#come-faccio-a-sapere-che-classe-e-curriculum-sono)
   - [Quali sono gli esami obbligatori?](#quali-sono-gli-esami-obbligatori)
   - [Che differenza c’è tra i due curriculum?](#che-differenza-cè-tra-i-due-curriculum)
-  - [Il tirocinio, se seguo il curriculum applicativo, è obbligatorio?](#il-tirocinio-se-seguo-il-curriculum-applicativo-è-obbligatorio)
-  - [Sto facendo il curriculum generale, posso fare il tirocinio?](#sto-facendo-il-curriculum-generale-posso-fare-il-tirocinio)
+    - [Il tirocinio, se seguo il curriculum applicativo, è obbligatorio?](#il-tirocinio-se-seguo-il-curriculum-applicativo-è-obbligatorio)
+    - [Sto facendo il curriculum generale, posso fare il tirocinio?](#sto-facendo-il-curriculum-generale-posso-fare-il-tirocinio)
+    - [Fare un curriculum o l’altro limita l’accesso alla magistrale?](#fare-un-curriculum-o-laltro-limita-laccesso-alla-magistrale)
+    - [Fare il curriculum applicativo mi consente di togliere un qualsiasi esame?](#fare-il-curriculum-applicativo-mi-consente-di-togliere-un-qualsiasi-esame)
   - [Come si fa a cambiare il curriculum?](#come-si-fa-a-cambiare-il-curriculum)
-  - [Posso cambiare cambiare curriculum in qualsiasi momento/anno di studio?](#posso-cambiare-cambiare-curriculum-in-qualsiasi-momentoanno-di-studio)
-  - [Fare un curriculum o l’altro limita l’accesso alla magistrale?](#fare-un-curriculum-o-laltro-limita-laccesso-alla-magistrale)
-  - [Fare il curriculum applicativo mi consente di togliere un qualsiasi esame?](#fare-il-curriculum-applicativo-mi-consente-di-togliere-un-qualsiasi-esame)
+     - [Posso cambiare cambiare curriculum in qualsiasi momento/anno di studio?](#posso-cambiare-cambiare-curriculum-in-qualsiasi-momentoanno-di-studio)
+
   
 - ***Classi***
   - [Che differenza c’è tra le varie classi?](#che-differenza-cè-tra-le-classi)
-  - [Si, ma quindi oltre a questo a me cosa cambiano ste "classi?"](#si-ma-quindi-oltre-a-questo-a-me-cosa-cambiano-le-classi)
+    - [Si, ma quindi oltre a questo a me cosa cambiano ste "classi?"](#si-ma-quindi-oltre-a-questo-a-me-cosa-cambiano-le-classi)
 
   - [Come si fa a cambiare la classe?](#come-si-fa-a-cambiare-la-classe)
-  - [Posso cambiare cambiare la classe in qualsiasi momento/anno di studio?](#posso-cambiare-cambiare-la-classe-in-qualsiasi-momentoanno-di-studio)
+    - [Posso cambiare cambiare la classe in qualsiasi momento/anno di studio?](#posso-cambiare-cambiare-la-classe-in-qualsiasi-momentoanno-di-studio)
   
 - ***Piano di studi***
   - [Quando si compila il piano di studi?](#quando-si-compila-il-piano-di-studi)
   - [Che differenza c’è tra i 15 CPU vincolati e quelli liberi?](#che-differenza-cè-tra-i-15-cpu-vincolati-e-quelli-liberi)
-  - [Quali sono gli esami a libera scelta?](#quali-sono-gli-esami-a-libera-scelta)
+    - [Quali sono gli esami a libera scelta?](#quali-sono-gli-esami-a-libera-scelta)
   - [Materie fatte in carriere precedenti possono valere come crediti liberi?](#materie-fatte-in-carriere-precedenti-possono-valere-come-crediti-liberi)
 
 
@@ -31,6 +32,10 @@
 
 ### **Dove trovo informazioni sugli esami che posso tenere/semestri delle lezioni/docenti del corso/syllabus/percorso formativo?**
 https://didattica.unipd.it/off/2018/LT/IN/IN2374
+
+---
+
+## Curriculum
 
 ### **Come faccio a sapere che classe e curriculum sono?**
 Se vai su uniweb, in status studente, vedrai che sei impostato in una classe di laurea (L8 o L9). Facendo richiesta all’Ufficio Segreteria Carriere si può passare da una classe all’altra.
@@ -42,7 +47,7 @@ Tutti del primo e del secondo anno. Del terzo anno sono obbligatori solo:
 - Semestre 1
   - Fondamenti di automatica (9 CFU)
   - Biomeccanica (9 CFU)
-- Semestre 2
+- Semestre 2  
   - Tecnologia e strumentazione biomedica (9 CFU)
 
 Poi ovviamente ci sono i 15 CFU a scelta vincolata e altri almeno 15 CFU liberi (anche 18, volendo, facendo due esami da 9 CFU o tre da 6 CFU).
@@ -59,6 +64,17 @@ https://www.unipd.it/cambio-curriculum
 
 In caso esiste anche la possibilità di fare il tirocinio senza CFU. Si possono chiedere più informazioni alla segreteria del DEI.
 
+### Fare un curriculum o l’altro limita l’accesso alla magistrale?
+No. E’ una laurea. Solo che con il tirocinio cerca di preparere un poco per il lavoro. Non c’entra niente con l’accesso alla magistrale. 
+
+### Fare il curriculum applicativo mi consente di togliere un qualsiasi esame?
+Non esattamente. Se sei parte di un curriculum o l’altro, puoi scegliere solo uno dei 3 percorsi indicati: 
+
+![curriculum](/img/curriculum.png)
+
+Di default, se non specifichi il tuo percorso, vieni assegnato al percorso 1.
+Facendo il piano di studi è molto più facile da capire.
+
 ### Come si fa a cambiare il curriculum?
 Attualmente si compila il modulo di cambio curriculum e si manda via mail con una scansione di un documento di identità a carriere.studenti@unipd.it o anche a ingegneria.studenti@unipd.it
 
@@ -71,18 +87,9 @@ I termini di scadenza attuali sono presenti qua: https://www.unipd.it/cambio-cur
 
 Conviene mandare una mail alla segreteria del DEI per avere conferma.
 
-### Fare un curriculum o l’altro limita l’accesso alla magistrale?
-No. E’ una laurea. Solo che con il tirocinio cerca di preparere un poco per il lavoro. Non c’entra niente con l’accesso alla magistrale. 
+---
 
-### Fare il curriculum applicativo mi consente di togliere un qualsiasi esame?
-Non esattamente. Se sei parte di un curriculum o l’altro, puoi scegliere solo uno dei 3 percorsi indicati: 
-
-![curriculum](/img/curriculum.png)
-
-
-Di default, se non specifichi il tuo percorso, vieni assegnato al percorso 1.
-Facendo il piano di studi è molto più facile da capire.
-
+## Classi
 
 ### Che differenza c’è tra le varie classi?
 Le classi ti inquadrano (assieme al curriculum) nella scelta degli esami da dare per i **15 CFU a scelta vincolata** del terzo anno:
@@ -114,6 +121,9 @@ I termini di scadenza attuali sono presenti qua: https://www.unipd.it/cambio-cla
 
 Conviene mandare una mail alla segreteria del DEI per avere conferma.
 
+---
+
+## Piano di studi
 
 ### Quando si compila il piano di studi?
 Di solito da Dicembre a Settembre dell’anno successivo.
