@@ -26,7 +26,7 @@
   - [Come si compila il piano di studi?](#come-si-compila-il-piano-di-studi)
   - [Che differenza c’è tra i 15 CPU vincolati e quelli liberi?](#che-differenza-cè-tra-i-15-cpu-vincolati-e-quelli-liberi)
     - [Quali sono gli esami a libera scelta?](#quali-sono-gli-esami-a-libera-scelta)
-    - [Posso dare altri esami che non siano della facoltà di Ingegneria Biomedica? Come si fa?]()
+    - [Posso dare altri esami che non siano della facoltà di Ingegneria Biomedica? Come si fa?](#posso-dare-altri-esami-che-non-siano-della-facoltà-di-ingegneria-biomedica-come-si-fa)
   - [Materie fatte in carriere precedenti possono valere come crediti liberi?](#materie-fatte-in-carriere-precedenti-possono-valere-come-crediti-liberi)
 
 - *** [Aiuto? Come posso strutturare i miei corsi?](#aiuto-come-posso-strutturare-i-miei-corsi)
