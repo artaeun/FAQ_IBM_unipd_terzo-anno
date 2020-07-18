@@ -10,8 +10,9 @@
 - [Sto facendo il curriculum generale, posso fare il tirocinio?](#sto-facendo-il-curriculum-generale-posso-fare-il-tirocinio)
 - [Come si fa a cambiare il curriculum?](#come-si-fa-a-cambiare-il-curriculum)
 
-- [Si ma quindi oltre a questo a me cosa cambiano le classi?](#si-ma-quindi-oltre-a-questo-a-me-cosa-cambiano-le-classi)
+
 - [Che differenza c’è tra le varie classi?](#che-differenza-cè-tra-le-varie-classi)
+- [Si, ma quindi oltre a questo a me cosa cambiano le classi?](#si-ma-quindi-oltre-a-questo-a-me-cosa-cambiano-le-classi)
 
 - [Come si fa a cambiare la classe?](#come-si-fa-a-cambiare-la-classe)
 - [Posso cambiare cambiare la classe in qualsiasi momento/anno di studio?](#posso-cambiare-cambiare-la-classe-in-qualsiasi-momentoanno-di-studio)
