@@ -325,7 +325,7 @@ In caso di dubbi rivedere le [indicazioni generale](#indicazioni-generali).
 	- Meccanica Per Bioingegneria (9 CFU)
 	- Misure ed Acquisizione di Dati Biomedici (6 CFU)
 	- Project Management (6 CFU) ([ad accesso programmato](#perché-alcuni-esami-sono-ad-accesso-programmato-come-mi-inscrivo)) 
- 	   - altri non appartenenti a IBM (vedere [qui](#posso-dare-altri-esami-che-non-siano-della-facoltà-di-ingegneria-biomedica-come-si-fa))
+ 	- altri non appartenenti a IBM (vedere [qui](#posso-dare-altri-esami-che-non-siano-della-facoltà-di-ingegneria-biomedica-come-si-fa))
   
 ***Semestre 2***
 - *Obbligatori*:
@@ -360,7 +360,7 @@ In caso di dubbi rivedere le [indicazioni generale](#indicazioni-generali).
 	- Laboratorio di Ingegneria Cellulare (6 CFU)
 	- Misure ed Acquisizione di Dati Biomedici (6 CFU)
 	- Project Management (6 CFU) ([ad accesso programmato](#perché-alcuni-esami-sono-ad-accesso-programmato-come-mi-inscrivo))
-	  - altri non appartenenti a IBM (vedere [qui](#posso-dare-altri-esami-che-non-siano-della-facoltà-di-ingegneria-biomedica-come-si-fa))
+	- altri non appartenenti a IBM (vedere [qui](#posso-dare-altri-esami-che-non-siano-della-facoltà-di-ingegneria-biomedica-come-si-fa))
 
  
 ***Semestre 2***
