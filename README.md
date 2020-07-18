@@ -208,7 +208,7 @@ Tutti quelli della lista seguente (escludendo quelli che sono vincolati, e quind
 
 Tecnicamente si, basta che siano dell'ambito Ingegneristico o che ci siano le propedeuticità. 
 
-Per farlo bisogna che siano stati sottomessi e approvati dalla Segreteria del DEI (la cui referente per le Carriere è la professoressa Saccomani https://www.dei.unipd.it/persona/0A7F06976D2D39F73AEDD095D97CF91A) attraverso il piano di studi ad approvazione. 
+Per farlo bisogna che siano stati sottomessi e approvati dalla Segreteria del DEI (la cui referente per le Carriere è la [professoressa Saccomani Maria Pia]( https://www.dei.unipd.it/persona/0A7F06976D2D39F73AEDD095D97CF91A)) attraverso il piano di studi ad approvazione. 
 
 Questi esami contano solo verso la somma totale di **crediti a libera scelta**. Volendo, si possono avere tutti esami esterni come crediti a libera scelta, basta che siano approvati.
 
