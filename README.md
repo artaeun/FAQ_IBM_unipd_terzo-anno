@@ -9,13 +9,13 @@
   - [Il tirocinio, se seguo il curriculum applicativo, è obbligatorio?](#il-tirocinio-se-seguo-il-curriculum-applicativo-è-obbligatorio)
   - [Sto facendo il curriculum generale, posso fare il tirocinio?](#sto-facendo-il-curriculum-generale-posso-fare-il-tirocinio)
   - [Come si fa a cambiare il curriculum?](#come-si-fa-a-cambiare-il-curriculum)
-  - [Posso cambiare cambiare curriculum in qualsiasi momento/anno di studio?]()
+  - [Posso cambiare cambiare curriculum in qualsiasi momento/anno di studio?](#posso-cambiare-cambiare-curriculum-in-qualsiasi-momentoanno-di-studio)
   - [Fare un curriculum o l’altro limita l’accesso alla magistrale?](#fare-un-curriculum-o-laltro-limita-laccesso-alla-magistrale)
   - [Fare il curriculum applicativo mi consente di togliere un qualsiasi esame?](#fare-il-curriculum-applicativo-mi-consente-di-togliere-un-qualsiasi-esame)
   
 - Classi
   - [Che differenza c’è tra le varie classi?](#che-differenza-cè-tra-le-classi)
-  - [Si, ma quindi oltre a questo a me cosa cambiano le classi?](#si-ma-quindi-oltre-a-questo-a-me-cosa-cambiano-le-classi)
+  - [Si, ma quindi oltre a questo a me cosa cambiano ste "classi?"](#si-ma-quindi-oltre-a-questo-a-me-cosa-cambiano-le-classi)
 
   - [Come si fa a cambiare la classe?](#come-si-fa-a-cambiare-la-classe)
   - [Posso cambiare cambiare la classe in qualsiasi momento/anno di studio?](#posso-cambiare-cambiare-la-classe-in-qualsiasi-momentoanno-di-studio)
@@ -66,7 +66,6 @@ In presenza bisogna andare all’Ufficio carriere in via Lungoargine Piovego 2, 
 Termini e scadenze qua: https://www.unipd.it/cambio-curriculum
 
 ### Posso cambiare cambiare curriculum in qualsiasi momento/anno di studio?
-### Posso cambiare cambiare la classe in qualsiasi momento/anno di studio?
 Cioè dipende, perché c’è sempre un termine di scadenza che però in circostanze come quelle attuali (post pandemia) potrebbero essere estesi. 
 I termini di scadenza attuali sono presenti qua: https://www.unipd.it/cambio-curriculum (attualmente dal 15 luglio al 29 ottobre 2020)
 
