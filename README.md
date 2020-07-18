@@ -275,20 +275,19 @@ Il tirocinio dura 2 mesi.
 
 ### Indicazioni generali
 
-Che esami devo dare?
+Quali esami devo dare al terzo anno?
 1. Bisogna (ovviamente) dare ***tutti quelli obbligatori***.
-2. Scelto un percorso come visto [qui](#che-differenza-cè-tra-le-varie-classi), si devono dare ***tutti quelli vincolati***.
+2. Scelto un percorso durante il piano di studi (scelta limitata anche dalla tua [classe](#che-differenza-cè-tra-le-varie-classi)), si devono dare ***tutti quelli vincolati*** corrispettivi al percorso.  
 
-	Per il curriculum applicativo il **Tirocinio** è vincolante, ma si può fare in un momento qualsiasi dell'anno e sapete che dura 2 mesi. L'importante è che rispetti i criteri stabiliti da UniPd. Trovate tutte le informazioni, linee guida e modalità  [qui](https://elearning.dei.unipd.it/mod/book/view.php?id=3&chapterid=37).
+	- Per il *curriculum applicativo* il **Tirocinio** è vincolante, ma si può fare in un momento qualsiasi dell'anno e sapete che dura 2 mesi. Trovate il resto delle informazioni alla [domanda corispettiva](#ma-per-il-tirocinio-come-si-fa-quando-si-fa-quanto-dura).
 	
-3. Si deve fare la somma (in un anno) di ***15 (o 18) CFU tra gli esami liberi*** *o anche tra gli esami non appartenenti ad IBM che siano stati sottomessi e approvati dalla Segreteria del DEI attraverso il piano di studi ad approvazione* ([questa domanda](#posso-dare-altri-esami-che-non-siano-della-facoltà-di-ingegneria-biomedica-come-si-fa)) risponderà ai vostri dubbi). Quindi si possono avere:
+3. Bisogna avere la somma (in un anno) di ***15 (o 18) CFU tra gli esami liberi*** *o anche tra gli esami non appartenenti ad IBM che siano stati sottomessi e approvati dalla Segreteria del DEI attraverso il piano di studi ad approvazione* ([questa domanda](#posso-dare-altri-esami-che-non-siano-della-facoltà-di-ingegneria-biomedica-come-si-fa)) risponderà ai vostri dubbi). Quindi si possono avere:
 
   - Esame da 6 crediti + Esame 9 crediti = 15 CFU
   - Esame da 9 crediti + Esame 9 crediti = 18 CFU
   - Esame da 6 crediti + Esame 6 crediti + Esame 6 crediti = 18 CFU
 
-
-Ricordate inoltre che di default, se non specifichi il tuo percorso, vieni assegnato al percorso 1. Si sceglie tutto poi impostando il piano di studi.
+Di seguito l'elenco degli esami obbligatori, vincolati e liberi di ogni Curriculum, Classe e Percorso. Consiglio di andare in fondo all'indice per cercare quello che vi interessa a voi.
 
 ###### *<p align="right">[Torna all'indice](#indice)</p>*
 ---
