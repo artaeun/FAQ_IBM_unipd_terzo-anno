@@ -1,4 +1,4 @@
-# **Classe e Curriculum**
+# **<<p align="center">>Classe e Curriculum</p>**
 
 
 ## Indice:
