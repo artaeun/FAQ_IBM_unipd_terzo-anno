@@ -12,12 +12,14 @@
   - [Posso cambiare cambiare curriculum in qualsiasi momento/anno di studio?]()
   - [Fare un curriculum o l’altro limita l’accesso alla magistrale?](#fare-un-curriculum-o-laltro-limita-laccesso-alla-magistrale)
   - [Fare il curriculum applicativo mi consente di togliere un qualsiasi esame?](#fare-il-curriculum-applicativo-mi-consente-di-togliere-un-qualsiasi-esame)
+  
 - Classi
   - [Che differenza c’è tra le varie classi?](#che-differenza-cè-tra-le-classi)
   - [Si, ma quindi oltre a questo a me cosa cambiano le classi?](#si-ma-quindi-oltre-a-questo-a-me-cosa-cambiano-le-classi)
 
   - [Come si fa a cambiare la classe?](#come-si-fa-a-cambiare-la-classe)
   - [Posso cambiare cambiare la classe in qualsiasi momento/anno di studio?](#posso-cambiare-cambiare-la-classe-in-qualsiasi-momentoanno-di-studio)
+  
 - Piano di studi
   - [Quando si compila il piano di studi?](#quando-si-compila-il-piano-di-studi)
   - [Che differenza c’è tra i 15 CPU vincolati e quelli liberi?](#che-differenza-cè-tra-i-15-cpu-vincolati-e-quelli-liberi)
