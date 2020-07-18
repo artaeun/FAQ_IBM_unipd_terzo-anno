@@ -26,6 +26,7 @@
   - [Come si compila il piano di studi?](#come-si-compila-il-piano-di-studi)
   - [Che differenza c’è tra i 15 CPU vincolati e quelli liberi?](#che-differenza-cè-tra-i-15-cpu-vincolati-e-quelli-liberi)
     - [Quali sono gli esami a libera scelta?](#quali-sono-gli-esami-a-libera-scelta)
+    - [Posso dare altri esami che non siano della facoltà di Ingegneria Biomedica? Come si fa?]()
   - [Materie fatte in carriere precedenti possono valere come crediti liberi?](#materie-fatte-in-carriere-precedenti-possono-valere-come-crediti-liberi)
 
 - *** [Aiuto? Come posso strutturare i miei corsi?](#aiuto-come-posso-strutturare-i-miei-corsi)
@@ -151,12 +152,16 @@ Compilando il piano di studi le cose diventano molto più chiare.
 La "Guida alla compilazione del piano di studi" si trova qui: www.astro.unipd.it/studenti/uniweb_PIANI_UNIWEB_MANUALE.pdf
   
 ### Quali sono gli esami a libera scelta?
-- ELABORAZIONE DI SEGNALI BIOMEDICI  (6 CFU)
-- MECCANICA PER BIOINGEGNERIA (9 CFU)
-- LABORATORIO DI INGEGNERIA CELLULARE  (6 CFU)
-- INFORMATICA MEDICA (9 CFU)
-- BIOINGEGNERIA DEL MOVIMENTO  (6 CFU)
-- MECCANICA DEI MATERIALI (9 CFU)
+Tutti quelli della lista seguente (escludendo quelli che sono vincolati, e quindi dovete comunque dare a prescindere):
+
+***Semestre 1***
+
+- Elaborazione di Segnali Biomedici (6 CFU)
+- Meccanica Per Bioingegneria (9 CFU)
+- Laboratorio di Ingegneria Cellulare (6 CFU)
+- Misure ed Acquisizione di Dati Biomedici (6 CFU)
+- Project Managment (6 CFU) (ad accesso programmato)
+- altri non appartenenti a IBM (vedere [qui](#quali-sono-gli-esami-a-libera-scelta))
   
   ---
   
@@ -166,7 +171,15 @@ La "Guida alla compilazione del piano di studi" si trova qui: www.astro.unipd.it
 
   ---
   
-- ed ***esami che NON sono di Ingegneria Biomedica*** (ma che siano dell’ambito Ingegneristico) che siano stati sottomessi e approvati dalla Segreteria del DEI (la cui referente per le Carriere è la professoressa Saccomani https://www.dei.unipd.it/persona/0A7F06976D2D39F73AEDD095D97CF91A) attraverso il piano di studi ad approvazione. 
+- sono inclusi in questa lista anche ***esami che NON sono di Ingegneria Biomedica***. Vedere la domanda successiva.
+
+### Posso dare altri esami che non siano della facoltà di Ingegneria Biomedica? Come si fa?
+
+Tecnicamente si, basta che siano dell'ambito Ingegneristico o che ci siano le propedeuticità. 
+
+Per farlo bisogna che siano stati sottomessi e approvati dalla Segreteria del DEI (la cui referente per le Carriere è la professoressa Saccomani https://www.dei.unipd.it/persona/0A7F06976D2D39F73AEDD095D97CF91A) attraverso il piano di studi ad approvazione. 
+
+Questi esami contano solo verso la somma totale di **crediti a libera scelta**.
 
 
 ### Quanti esami a libera scelta posso dare?
