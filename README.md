@@ -29,6 +29,8 @@
     - [Posso dare altri esami che non siano della facoltà di Ingegneria Biomedica? Come si fa?](#posso-dare-altri-esami-che-non-siano-della-facoltà-di-ingegneria-biomedica-come-si-fa)
     - [Perché alcuni esami sono ad accesso programmato? Come mi inscrivo?](#perché-alcuni-esami-sono-ad-accesso-programmato-come-mi-inscrivo)
   - [Materie fatte in carriere precedenti possono valere come crediti liberi?](#materie-fatte-in-carriere-precedenti-possono-valere-come-crediti-liberi)
+  - [Ma per il tirocinio come si fa? Quando si fa? Quanto dura?]()
+
 
 - ***[Aiuto! Come posso strutturare i miei corsi?](#aiuto-come-posso-strutturare-i-miei-corsi)***
 	- [Indicazioni generali](#indicazioni-generali)
@@ -196,16 +198,26 @@ Viene ogni anno mandata la mail (circa il 16 settembre) dalla segreteria del dei
 ### Materie fatte in carriere precedenti possono valere come crediti liberi?
 Se già approvati tramite domanda riconoscimento preventiva e già caricati a libretto; verrà poi data possibilità di aggiungerli durante la compilazione del piano di studi.
 
+
+### Ma per il tirocinio come si fa? Quando si fa? Quanto dura?
+
+Trovate tutte le informazioni, linee guida e modalità  [qui](https://elearning.dei.unipd.it/mod/book/view.php?id=3&chapterid=37). 
+
+Potete farlo in un momento qualsiasi dell'anno, finché rispetta i criteri stabiliti da Unipd. 
+
+Il tirocinio dura 2 mesi.
+
 ---
 
 ## *Aiuto! Come posso strutturare i miei corsi?*
 
-### Indicazioni generali:
+### Indicazioni generali
 
-1. Bisogna (ovviamente) fare tutti quelli obbligatori.
-2. Scelto un percorso come visto [qui](#che-differenza-cè-tra-le-varie-classi), si devono fare tutti quelli vincolati.
+Che esami devo dare?
+1. Bisogna (ovviamente) dare tutti quelli obbligatori.
+2. Scelto un percorso come visto [qui](#che-differenza-cè-tra-le-varie-classi), si devono dare tutti quelli vincolati.
 
-	Per il curriculum applicativo il **Tirocinio** è vincolante, ma si può fare in un momento qualsiasi dell'anno. L'importante è che rispetti i criteri stabiliti da UniPd. Trovate tutte le informazioni, linee guida e modalità  [qui](https://elearning.dei.unipd.it/mod/book/view.php?id=3&chapterid=37).
+	Per il curriculum applicativo il **Tirocinio** è vincolante, ma si può fare in un momento qualsiasi dell'anno e sapete che dura 2 mesi. L'importante è che rispetti i criteri stabiliti da UniPd. Trovate tutte le informazioni, linee guida e modalità  [qui](https://elearning.dei.unipd.it/mod/book/view.php?id=3&chapterid=37).
 	
 3. Si deve fare la somma (in un anno) di 15 crediti (o 18) tra gli esami liberi o anche tra gli esami non appartenenti ad IBM che siano stati sottomessi e approvati dalla Segreteria del DEI attraverso il piano di studi ad approvazione (in fondo a [questa domanda](#quali-sono-gli-esami-a-libera-scelta))). Quindi si possono avere:
   - Esame da 6 crediti + Esame 9 crediti
