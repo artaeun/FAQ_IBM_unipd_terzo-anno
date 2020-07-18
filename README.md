@@ -1,7 +1,7 @@
 # **Classe e Curriculum**
 
 
-##Indice:
+## Indice:
 - [Dove trovo tutte le info?](#dove-trovo-informazioni-sugli-esami-che-posso-teneresemestri-delle-lezionidocenti-del-corsosyllabuspercorso-formativo)
 - [Che curriculum e classe sono?](#come-faccio-a-sapere-che-classe-e-curriculum-sono)
 - [Quali sono gli esami obbligatori?](#quali-sono-gli-esami-obbligatori)
@@ -10,7 +10,7 @@
 - [Sto facendo il curriculum generale, posso fare il tirocinio?](#sto-facendo-il-curriculum-generale-posso-fare-il-tirocinio)
 - [Come si fa a cambiare il curriculum?](#come-si-fa-a-cambiare-il-curriculum)
 
-- [Si ma quindi oltre a questo a me cosa cambiano le classi?](#che-differenza-cè-tra-le-classi)
+- [Si ma quindi oltre a questo a me cosa cambiano le classi?](#si-ma-quindi-oltre-a-questo-a-me-cosa-cambiano-le-classi)
 - [Che differenza c’è tra le varie classi?](#che-differenza-cè-tra-le-varie-classi)
 
 - [Come si fa a cambiare la classe?](#come-si-fa-a-cambiare-la-classe)
