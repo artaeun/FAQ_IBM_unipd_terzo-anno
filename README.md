@@ -89,7 +89,7 @@ Conviene mandare una mail alla segreteria del DEI per avere conferma.
 
 ---
 
-## *Classi
+## *Classi*
 
 ### Che differenza c’è tra le varie classi?
 Le classi ti inquadrano (assieme al curriculum) nella scelta degli esami da dare per i **15 CFU a scelta vincolata** del terzo anno:
@@ -123,7 +123,7 @@ Conviene mandare una mail alla segreteria del DEI per avere conferma.
 
 ---
 
-## *Piano di studi
+## *Piano di studi*
 
 ### Quando si compila il piano di studi?
 Di solito da Dicembre a Settembre dell’anno successivo.
