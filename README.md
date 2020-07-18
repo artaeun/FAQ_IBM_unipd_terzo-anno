@@ -50,7 +50,7 @@ Trovi tutto qui: https://didattica.unipd.it/off/2018/LT/IN/IN2374
 
 ---
 
-## *Curriculum*
+## *<p align="center">Curriculum</p>*
 
 ### **Come faccio a sapere che classe e curriculum sono?**
 Se vai su uniweb, in status studente, vedrai che sei impostato in una classe di laurea (L8 o L9). Facendo richiesta all’Ufficio Segreteria Carriere si può passare da una classe all’altra.
@@ -120,7 +120,7 @@ Conviene mandare una mail alla segreteria del DEI per avere conferma.
 
 ---
 
-## *Classi*
+## *<p align="center">Classi</p>*
 
 ### Che differenza c’è tra le varie classi?
 Le classi ti inquadrano (assieme al curriculum) nella scelta degli esami da dare per i **15 CFU a scelta vincolata** del terzo anno:
@@ -160,7 +160,7 @@ Conviene mandare una mail alla segreteria del DEI per avere conferma.
 
 ---
 
-## *Piano di studi*
+## *<p align="center">Piano di studi</p>*
 
 ### Quando si compila il piano di studi?
 Di solito da Dicembre a Settembre dell’anno successivo. Trovi tutte le informazioni relative qui: https://elearning.dei.unipd.it/mod/book/view.php?id=3&chapterid=7
@@ -246,7 +246,7 @@ Il tirocinio dura 2 mesi.
 
 ---
 
-## *Aiuto! Come posso strutturare i miei corsi?*
+## *<p align="center">Aiuto! Come posso strutturare i miei corsi?</p>*
 
 ### Indicazioni generali
 
