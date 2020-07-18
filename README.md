@@ -160,14 +160,13 @@ Tutti quelli della lista seguente (escludendo quelli che sono vincolati, e quind
 - Meccanica Per Bioingegneria (9 CFU)
 - Laboratorio di Ingegneria Cellulare (6 CFU)
 - Misure ed Acquisizione di Dati Biomedici (6 CFU)
-- Project Managment (6 CFU) (ad accesso programmato)
+- Project Managment (6 CFU) (ad [accesso programmato]())
 
 ***Semestre 2***  
 - Informatica Medica (9 CFU)
 - Bioingegneria del movimento (6 CFU)
 - Meccanica dei Materiali (9 CFU)
 - Bioelettromagnetismo (6 CFU)
-- altri non appartenenti a IBM (vedere [qui](#quali-sono-gli-esami-a-libera-scelta))
 
   ---
   
@@ -181,9 +180,12 @@ Per farlo bisogna che siano stati sottomessi e approvati dalla Segreteria del DE
 
 Questi esami contano solo verso la somma totale di **crediti a libera scelta**.
 
-
 ### Quanti esami a libera scelta posso dare?
 Puoi combinarli come ti pare, basta garantire   **15 ≤ CFU ≤ 18**
+
+### Perché alcuni esami sono ad accesso programmato? Come mi inscrivo?
+
+Alcuni 
 
 ### Materie fatte in carriere precedenti possono valere come crediti liberi?
 Se già approvati tramite domanda riconoscimento preventiva e già caricati a libretto; verrà poi data possibilità di aggiungerli durante la compilazione del piano di studi.
