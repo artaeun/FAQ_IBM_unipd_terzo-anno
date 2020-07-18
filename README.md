@@ -23,6 +23,7 @@
   
 - ***[Piano di studi](#piano-di-studi)***
   - [Quando si compila il piano di studi?](#quando-si-compila-il-piano-di-studi)
+  - [Come si compila il piano di studi?](#come-si-compila-il-piano-di-studi)
   - [Che differenza c’è tra i 15 CPU vincolati e quelli liberi?](#che-differenza-cè-tra-i-15-cpu-vincolati-e-quelli-liberi)
     - [Quali sono gli esami a libera scelta?](#quali-sono-gli-esami-a-libera-scelta)
   - [Materie fatte in carriere precedenti possono valere come crediti liberi?](#materie-fatte-in-carriere-precedenti-possono-valere-come-crediti-liberi)
@@ -136,8 +137,8 @@ Quelli a scelta libera (anche se di percorso diverso) possono essere comunque sc
 
 Compilando il piano di studi le cose diventano molto più chiare.
 
-***Guida sulla compilazione del piano di studi***: www.astro.unipd.it/studenti/uniweb_PIANI_UNI
-WEB_MANUALE.pdf
+### Come si compila il piano di studi?
+La "Guida alla compilazione del piano di studi" si trova qui: www.astro.unipd.it/studenti/uniweb_PIANI_UNIWEB_MANUALE.pdf
   
 ### Quali sono gli esami a libera scelta?
 - ELABORAZIONE DI SEGNALI BIOMEDICI  (6 CFU)
@@ -166,18 +167,239 @@ Se già approvati tramite domanda riconoscimento preventiva e già caricati a li
 
 ---
 
-## Aiuto? Che corsi posso scegliere?
+## Aiuto? Come posso strutturare i miei corsi?
 
-### Curriculum Generale, classe L8
+### Indicazioni generali:
+
+1. Bisogna (ovviamente) fare tutti quelli obbligatori.
+2. Scelto un percorso come visto [qui](#che-differenza-cè-tra-le-varie-classi), si devono fare tutti quelli vincolati.
+3. Si deve fare la somma (in un anno) di 15 crediti (o 18) tra gli esami liberi o anche tra gli esami non appartenenti ad IBM che siano stati sottomessi e approvati dalla Segreteria del DEI attraverso il piano di studi ad approvazione (in fondo a [questa domanda](#quali-sono-gli-esami-a-libera-scelta))). Quindi si possono avere:
+  - Esame da 6 crediti + Esame 9 crediti
+  - Esame da 9 crediti + Esame 9 crediti
+  - Esame da 6 crediti + Esame 6 crediti + Esame 6 crediti
+
+Ovviamente se avete voglia potete farne tre da 6 crediti in un solo semestre o suddividerli.
+
+Ricordate inoltre che di default, se non specifichi il tuo percorso, vieni assegnato al percorso 1. Si sceglie tutto poi impostando il piano di studi.
+
+
+
+
+## **<p align="center">Curriculum Generale</p>**
+### Curriculum Generale, classe L8, percorso 1
+
+In caso di dubbi rivedere le [indicazioni generale](#indicazioni-generali).
 
 ***Semestre 1***
--Obbligatori:
+
+- Obbligatori:
+  - Fondamenti di automatica (9 CFU)
+  - Biomeccanica (9 CFU)
+- Vincolati:
+  - Elaborazione di Segnali Biomedici  (6 CFU)
+- Liberi:
+  - Meccanica Per Bioingegneria (9 CFU)
+  - Laboratorio di Ingegneria Cellulare (6 CFU)
+  - Misure ed Acquisizione di Dati Biomedici (6 CFU)
+  - Project Managment (6 CFU)
+  - altri non appartenenti a IBM (vedere [qui](#quali-sono-gli-esami-a-libera-scelta))
+  
+***Semestre 2***
+- Obbligatori:
+  - Tecnologia e strumentazione biomedica (9 CFU)
+- Vincolati:
+  - Informatica Medica (9 CFU)
+- Liberi:
+	- Bioingegneria del movimento (6 CFU)
+	- Meccanica dei Materiali (9 CFU)
+	- Bioelettromagnetismo (6 CFU)
+  - altri non appartenenti a IBM (vedere [qui](#quali-sono-gli-esami-a-libera-scelta))
+
+---
+
+### Curriculum Generale, classe L9, percorso 2
+
+In caso di dubbi rivedere le [indicazioni generale](#indicazioni-generali).
+
+***Semestre 1***
+
+- Obbligatori:
   - Fondamenti di automatica (9 CFU)
   - Biomeccanica (9 CFU)
 
+- Vincolati:
+	- Laboratorio di Ingegneria Cellulare (6 CFU)
+
+- Liberi:
+	- Elaborazione di Segnali Biomedici (6 CFU)
+	- Meccanica Per Bioingegneria (9 CFU)
+	- Misure ed Acquisizione di Dati Biomedici (6 CFU)
+	- Project Managment (6 CFU)
+	- altri non appartenenti a IBM (vedere [qui](#quali-sono-gli-esami-a-libera-scelta))
+  
 ***Semestre 2***
-Obbligatori:
+- Obbligatori:
   - Tecnologia e strumentazione biomedica (9 CFU)
 
+- Vincolati:
+	- Meccanica dei Materiali (9 CFU)
   
+- Liberi:
+	- Informatica Medica (9 CFU)
+	- Bioingegneria del movimento (6 CFU)
+	- Bioelettromagnetismo (6 CFU)
+	- altri non appartenenti a IBM (vedere [qui](#quali-sono-gli-esami-a-libera-scelta))
+  
+---
+ 
+ ### Curriculum Generale, classe *L8* o classe *L9*, *percorso 3*
 
+In caso di dubbi rivedere le [indicazioni generale](#indicazioni-generali).
+
+***Semestre 1***
+
+- Obbligatori:
+  - Fondamenti di automatica (9 CFU)
+  - Biomeccanica (9 CFU)
+
+- Vincolati:
+	- Meccanica Per Bioingegneria (9 CFU)
+
+- Liberi:
+	- Elaborazione di Segnali Biomedici (6 CFU)
+	- Laboratorio di Ingegneria Cellulare (6 CFU)
+	- Misure ed Acquisizione di Dati Biomedici (6 CFU)
+	- Project Managment (6 CFU)
+	- altri non appartenenti a IBM (vedere [qui](#quali-sono-gli-esami-a-libera-scelta))
+
+ 
+***Semestre 2***
+- Obbligatori:
+  - Tecnologia e strumentazione biomedica (9 CFU)
+
+- Vincolati:
+	- Bioingegneria del movimento (6 CFU)
+  
+- Liberi:
+	- Informatica Medica (9 CFU)
+
+	- Meccanica dei Materiali (9 CFU)
+	- Bioelettromagnetismo (6 CFU)
+	- altri non appartenenti a IBM (vedere [qui](#quali-sono-gli-esami-a-libera-scelta))
+  
+---
+
+
+  
+ ## **<p align="center">Curriculum Applicativo (con Tirocinio)</p>** 
+ 
+ ### Curriculum Applicativo, classe L8, percorso 1
+
+In caso di dubbi rivedere le [indicazioni generale](#indicazioni-generali).
+
+***Semestre 1***
+
+- *Obbligatori*:
+  - Fondamenti di automatica (9 CFU)
+  - Biomeccanica (9 CFU)
+
+- *Liberi*:
+	- Elaborazione di Segnali Biomedici (6 CFU)
+	- Meccanica Per Bioingegneria (9 CFU)
+	- Laboratorio di Ingegneria Cellulare (6 CFU)
+	- Misure ed Acquisizione di Dati Biomedici (6 CFU)
+	- Project Managment (6 CFU)
+	- altri non appartenenti a IBM (vedere [qui](#quali-sono-gli-esami-a-libera-scelta))
+ 
+***Semestre 2***
+
+- *Obbligatori*:
+  - Tecnologia e strumentazione biomedica (9 CFU)
+
+- *Vincolati*:
+	- Informatica Medica (9 CFU)
+  
+- *Liberi*:
+	- Bioingegneria del movimento (6 CFU)
+	- Meccanica dei Materiali (9 CFU)
+	- Bioelettromagnetismo (6 CFU)
+	- altri non appartenenti a IBM (vedere [qui](#quali-sono-gli-esami-a-libera-scelta))
+
+**Annuale**
+- *Vincolante*:
+  - Tirocinio (6 CFU)
+ 
+
+ ### Curriculum Applicativo, classe L9, percorso 2
+ 
+In caso di dubbi rivedere le [indicazioni generale](#indicazioni-generali).
+
+***Semestre 1***
+
+- Obbligatori:
+  - Fondamenti di automatica (9 CFU)
+  - Biomeccanica (9 CFU)
+
+- Liberi:
+	- Elaborazione di Segnali Biomedici (6 CFU)
+	- Meccanica Per Bioingegneria (9 CFU)
+	- Laboratorio di Ingegneria Cellulare (6 CFU)
+	- Misure ed Acquisizione di Dati Biomedici (6 CFU)
+	- Project Managment (6 CFU)
+	- altri non appartenenti a IBM (vedere [qui](#quali-sono-gli-esami-a-libera-scelta))
+ 
+***Semestre 2***
+
+- Obbligatori:
+  - Tecnologia e strumentazione biomedica (9 CFU)
+
+- Vincolati:
+	- Meccanica dei Materiali (9 CFU)
+  
+- Liberi:
+	- Informatica Medica (9 CFU)
+	- Bioingegneria del movimento (6 CFU)
+	- Bioelettromagnetismo (6 CFU)
+	- altri non appartenenti a IBM (vedere [qui](#quali-sono-gli-esami-a-libera-scelta))
+  
+**Annuale**
+- Vincolante:
+  - Tirocinio (6 CFU)
+ 
+
+### Curriculum Applicativo, classe L9, percorso 2-bis (in pratica percorso 3)
+
+In caso di dubbi rivedere le [indicazioni generale](#indicazioni-generali).
+
+***Semestre 1***
+
+- *Obbligatori*:
+  - Fondamenti di automatica (9 CFU)
+  - Biomeccanica (9 CFU)
+
+- *Vincolati*:
+	- Meccanica Per Bioingegneria (9 CFU)
+
+- *Liberi*:
+	- Elaborazione di Segnali Biomedici (6 CFU)
+	- Laboratorio di Ingegneria Cellulare (6 CFU)
+	- Misure ed Acquisizione di Dati Biomedici (6 CFU)
+	- Project Managment (6 CFU) (ad accesso programmato)
+	- altri non appartenenti a IBM (vedere [qui](#quali-sono-gli-esami-a-libera-scelta))
+
+ 
+***Semestre 2***
+- *Obbligatori*:
+  - Tecnologia e strumentazione biomedica (9 CFU)
+
+- *Liberi*:
+	- Informatica Medica (9 CFU)
+	- Bioingegneria del movimento (6 CFU)
+	- Meccanica dei Materiali (9 CFU)
+	- Bioelettromagnetismo (6 CFU)
+	- altri non appartenenti a IBM (vedere [qui](#quali-sono-gli-esami-a-libera-scelta))
+  
+**Annuale**
+- Vincolante:
+  - Tirocinio (6 CFU)
+ 
