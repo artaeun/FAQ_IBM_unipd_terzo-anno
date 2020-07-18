@@ -1,4 +1,4 @@
-# **<p align="center">Classe e Curriculum</p>**
+# **<p align="center">Guida per il 3° anno</p>**
 
 ## *Indice*:
 - [Dove trovo tutte queste informazioni?](#dove-trovo-informazioni-sugli-esami-che-posso-teneresemestri-delle-lezionidocenti-del-corsosyllabuspercorso-formativo)
@@ -11,7 +11,7 @@
     - [Fare un curriculum o l’altro limita l’accesso alla magistrale?](#fare-un-curriculum-o-laltro-limita-laccesso-alla-magistrale)
     - [Fare il curriculum applicativo mi consente di togliere un qualsiasi esame?](#fare-il-curriculum-applicativo-mi-consente-di-togliere-un-qualsiasi-esame)
   - [Come si fa a cambiare il curriculum?](#come-si-fa-a-cambiare-il-curriculum)
-     - [Posso cambiare cambiare curriculum in qualsiasi momento/anno di studio?](#posso-cambiare-cambiare-curriculum-in-qualsiasi-momentoanno-di-studio)
+     - [Posso cambiare curriculum in qualsiasi momento/anno di studio?](#posso-cambiare-curriculum-in-qualsiasi-momentoanno-di-studio)
 
   
 - ***[Classi](#classi)***
@@ -19,7 +19,7 @@
     - [Si, ma quindi oltre a questo a me cosa cambiano ste "classi?"](#si-ma-quindi-oltre-a-questo-a-me-cosa-cambiano-le-classi)
 
   - [Come si fa a cambiare la classe?](#come-si-fa-a-cambiare-la-classe)
-    - [Posso cambiare cambiare la classe in qualsiasi momento/anno di studio?](#posso-cambiare-cambiare-la-classe-in-qualsiasi-momentoanno-di-studio)
+    - [Posso cambiare la classe in qualsiasi momento/anno di studio?](#posso-cambiare-la-classe-in-qualsiasi-momentoanno-di-studio)
   
 - ***[Piano di studi](#piano-di-studi)***
   - [Quando si compila il piano di studi?](#quando-si-compila-il-piano-di-studi)
@@ -40,7 +40,7 @@
 		- [Curriculum *Generale*, classe **L8**, percorso 1](#curriculum-generale-classe-l8-percorso-1)
 		- [Curriculum *Generale*, classe **L9**, percorso 2](#curriculum-generale-classe-l9-percorso-2)
 		- [Curriculum *Generale*, classe **L8 o L9**, percorso 3](#curriculum-generale-classe-l8-o-classe-l9-percorso-3)
-	- [Curriculum Curriculum ***Applicativo*** (con Tirocinio)](#curriculum-applicativo-con-tirocinio)
+	- [Curriculum ***Applicativo*** (con Tirocinio)](#curriculum-applicativo-con-tirocinio)
 		- [Curriculum *Applicativo*, classe **L8**, percorso 1](#curriculum-applicativo-classe-l8-percorso-1)
 		- [Curriculum *Applicativo*, classe **L9**, percorso 2](#curriculum-applicativo-classe-l9-percorso-2)
 		- [Curriculum *Applicativo*, classe **L9**, percorso 2-bis (in pratica percorso 3)](#curriculum-applicativo-classe-l9-percorso-2-bis-in-pratica-percorso-3)
@@ -99,7 +99,7 @@ In caso esiste anche la possibilità di fare il tirocinio senza CFU. Si possono 
 ---
 
 ### Fare un curriculum o l’altro limita l’accesso alla magistrale?
-No. E’ una laurea. Solo che con il tirocinio cerca di preparere un poco per il lavoro. Non c’entra niente con l’accesso alla magistrale. 
+No. E’ una laurea. Solo che con il tirocinio cerca di preparare un poco per il lavoro. Non c’entra niente con l’accesso alla magistrale. 
 
 ###### *<p align="right">[Torna all'indice](#indice)</p>*
 ---
@@ -124,7 +124,7 @@ Termini e scadenze qua: https://www.unipd.it/cambio-curriculum
 ###### *<p align="right">[Torna all'indice](#indice)</p>*
 ---
 
-### Posso cambiare cambiare curriculum in qualsiasi momento/anno di studio?
+### Posso cambiare curriculum in qualsiasi momento/anno di studio?
 Dipende, perché c’è sempre un termine di scadenza che però in circostanze come quelle attuali (post pandemia) potrebbero essere estesi. 
 I termini di scadenza attuali sono presenti qua: https://www.unipd.it/cambio-curriculum (***attualmente dal 15 luglio al 29 ottobre 2020***)
 
@@ -151,7 +151,7 @@ Le classi ti inquadrano (assieme al curriculum) nella scelta degli esami da dare
 ---
 
 ### Si ma quindi oltre a questo a me cosa cambiano le classi?
-Se vuoi fare la magistrale di Bioingegneria a Padova non ti cambia niente se non gli esami che puoi dare. Ma se se vuoi fare per esempio una laurea di Ingegneria Industriale (fuori o dentro Padova) è probabile che ti verrà chiesta una classe L9. O magari di integrare qualche esame per poter fare richiesta di ammissione al corso. Queste informazioni si possono trovare sul bando di ammissione al corso di studi magistrale che si vorrà intraprendere. 
+Se vuoi fare la magistrale di Bioingegneria a Padova non ti cambia niente se non gli esami che puoi dare. Ma se vuoi fare per esempio una laurea di Ingegneria Industriale (fuori o dentro Padova) è probabile che ti verrà chiesta una classe L9. O magari di integrare qualche esame per poter fare richiesta di ammissione al corso. Queste informazioni si possono trovare sul bando di ammissione al corso di studi magistrale che si vorrà intraprendere. 
 
 ###### *<p align="right">[Torna all'indice](#indice)</p>*
 ---
@@ -166,7 +166,7 @@ In presenza bisogna andare all’Ufficio carriere in via Lungoargine Piovego 2, 
 ###### *<p align="right">[Torna all'indice](#indice)</p>*
 ---
 
-### Posso cambiare cambiare la classe in qualsiasi momento/anno di studio?
+### Posso cambiare la classe in qualsiasi momento/anno di studio?
 Cioè dipende, perché c’è sempre un termine di scadenza che però in circostanze come quelle attuali (post pandemia) potrebbero essere estesi. 
 I termini di scadenza attuali sono presenti qua: https://www.unipd.it/cambio-classe (***attualmente dal 15 luglio al 29 ottobre 2020***)
 
@@ -208,7 +208,7 @@ Tutti quelli della lista seguente (escludendo quelli che sono vincolati, e quind
 - Meccanica Per Bioingegneria (9 CFU)
 - Laboratorio di Ingegneria Cellulare (6 CFU)
 - Misure ed Acquisizione di Dati Biomedici (6 CFU)
-- Project Managment (6 CFU) (ad [accesso programmato](#perché-alcuni-esami-sono-ad-accesso-programmato-come-mi-inscrivo))
+- Project Management (6 CFU) (ad [accesso programmato](#perché-alcuni-esami-sono-ad-accesso-programmato-come-mi-inscrivo))
 
 ***Semestre 2***  
 - Informatica Medica (9 CFU)
@@ -244,7 +244,7 @@ Questi esami contano solo verso la somma totale di **crediti a libera scelta**. 
 
 ### Perché alcuni esami sono ad accesso programmato? Come mi inscrivo?
 
-Alcune materie a scelta libera hanno un numero limitato di posti, per favorire sia la qualità del corso o per evitare sovraffolamenti quando si ha una disponibilità limitata di aule o difficoltà a organizzare il tutto.
+Alcune materie a scelta libera hanno un numero limitato di posti, per favorire sia la qualità del corso o per evitare sovraffollamenti quando si ha una disponibilità limitata di aule o difficoltà a organizzare il tutto.
 
 
 Per parteciparvi bisogna sottoscrivere alla graduatoria che parte a settembre (che vale sia per il primo che per il secondo semestre, quindi se avete una materia del secondo semestre che volete seguire dovete comunque parteciparvi). 
@@ -311,7 +311,7 @@ In caso di dubbi rivedere le [indicazioni generale](#indicazioni-generali).
   - Meccanica Per Bioingegneria (9 CFU)
   - Laboratorio di Ingegneria Cellulare (6 CFU)
   - Misure ed Acquisizione di Dati Biomedici (6 CFU)
-  - Project Managment (6 CFU)
+  - Project Management (6 CFU) ([ad accesso programmato](#perché-alcuni-esami-sono-ad-accesso-programmato-come-mi-inscrivo))
   - altri non appartenenti a IBM (vedere [qui](#posso-dare-altri-esami-che-non-siano-della-facoltà-di-ingegneria-biomedica-come-si-fa))
   
 ***Semestre 2***
@@ -345,8 +345,8 @@ In caso di dubbi rivedere le [indicazioni generale](#indicazioni-generali).
 	- Elaborazione di Segnali Biomedici (6 CFU)
 	- Meccanica Per Bioingegneria (9 CFU)
 	- Misure ed Acquisizione di Dati Biomedici (6 CFU)
-	- Project Managment (6 CFU)
- 	   - altri non appartenenti a IBM (vedere [qui](#posso-dare-altri-esami-che-non-siano-della-facoltà-di-ingegneria-biomedica-come-si-fa))
+	- Project Management (6 CFU) ([ad accesso programmato](#perché-alcuni-esami-sono-ad-accesso-programmato-come-mi-inscrivo)) 
+ 	- altri non appartenenti a IBM (vedere [qui](#posso-dare-altri-esami-che-non-siano-della-facoltà-di-ingegneria-biomedica-come-si-fa))
   
 ***Semestre 2***
 - *Obbligatori*:
@@ -381,8 +381,8 @@ In caso di dubbi rivedere le [indicazioni generale](#indicazioni-generali).
 	- Elaborazione di Segnali Biomedici (6 CFU)
 	- Laboratorio di Ingegneria Cellulare (6 CFU)
 	- Misure ed Acquisizione di Dati Biomedici (6 CFU)
-	- Project Managment (6 CFU)
-	  - altri non appartenenti a IBM (vedere [qui](#posso-dare-altri-esami-che-non-siano-della-facoltà-di-ingegneria-biomedica-come-si-fa))
+	- Project Management (6 CFU) ([ad accesso programmato](#perché-alcuni-esami-sono-ad-accesso-programmato-come-mi-inscrivo))
+	- altri non appartenenti a IBM (vedere [qui](#posso-dare-altri-esami-che-non-siano-della-facoltà-di-ingegneria-biomedica-come-si-fa))
 
  
 ***Semestre 2***
@@ -421,7 +421,7 @@ In caso di dubbi rivedere le [indicazioni generale](#indicazioni-generali).
 	- Meccanica Per Bioingegneria (9 CFU)
 	- Laboratorio di Ingegneria Cellulare (6 CFU)
 	- Misure ed Acquisizione di Dati Biomedici (6 CFU)
-	- Project Managment (6 CFU)
+	- Project Management (6 CFU) ([ad accesso programmato](#perché-alcuni-esami-sono-ad-accesso-programmato-come-mi-inscrivo))
 	- altri non appartenenti a IBM (vedere [qui](#posso-dare-altri-esami-che-non-siano-della-facoltà-di-ingegneria-biomedica-come-si-fa))
  
 ***Semestre 2***
@@ -460,7 +460,7 @@ In caso di dubbi rivedere le [indicazioni generale](#indicazioni-generali).
 	- Meccanica Per Bioingegneria (9 CFU)
 	- Laboratorio di Ingegneria Cellulare (6 CFU)
 	- Misure ed Acquisizione di Dati Biomedici (6 CFU)
-	- Project Managment (6 CFU)
+	- Project Management (6 CFU) ([ad accesso programmato](#perché-alcuni-esami-sono-ad-accesso-programmato-come-mi-inscrivo))
 	- altri non appartenenti a IBM (vedere [qui](#posso-dare-altri-esami-che-non-siano-della-facoltà-di-ingegneria-biomedica-come-si-fa))
  
 ***Semestre 2***
@@ -502,7 +502,7 @@ In caso di dubbi rivedere le [indicazioni generale](#indicazioni-generali).
 	- Elaborazione di Segnali Biomedici (6 CFU)
 	- Laboratorio di Ingegneria Cellulare (6 CFU)
 	- Misure ed Acquisizione di Dati Biomedici (6 CFU)
-	- Project Managment (6 CFU) (ad accesso programmato)
+	- Project Management (6 CFU) ([ad accesso programmato](#perché-alcuni-esami-sono-ad-accesso-programmato-come-mi-inscrivo))
 	- altri non appartenenti a IBM (vedere [qui](#posso-dare-altri-esami-che-non-siano-della-facoltà-di-ingegneria-biomedica-come-si-fa))
 
  
