@@ -217,6 +217,8 @@ Questi esami contano solo verso la somma totale di **crediti a libera scelta**. 
 ### Quanti esami a libera scelta posso dare?
 Puoi combinarli come ti pare, basta garantire   **15 ≤ CFU ≤ 18**
 
+Se la cosa ti lascia un po' basito, dai un'occhiata [qui](#aiuto-come-posso-strutturare-i-miei-corsi). Potrai vedere strutturati tutti i percorsi possibili con esami obbligatori e vincolati del curriculum e della propria classe. Puoi scegliere più velocemente il percorso passando per [l'indice](#indice) ma consigliamo comunque una lettura veloce delle [indicazioni generali](#indicazioni-generali).
+
 ---
 
 ### Perché alcuni esami sono ad accesso programmato? Come mi inscrivo?
