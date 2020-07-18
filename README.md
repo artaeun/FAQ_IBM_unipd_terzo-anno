@@ -1,4 +1,4 @@
-# **<p align="center">Classe e Curriculum</p>**
+# **<p align="center">Guida sulle "classi", "curriculum", CFU vincolati e CFU liberi per il 3° anno</p>**
 
 ## *Indice*:
 - [Dove trovo tutte queste informazioni?](#dove-trovo-informazioni-sugli-esami-che-posso-teneresemestri-delle-lezionidocenti-del-corsosyllabuspercorso-formativo)
