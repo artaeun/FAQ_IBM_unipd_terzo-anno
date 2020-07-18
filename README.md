@@ -30,7 +30,7 @@
     - [Perché alcuni esami sono ad accesso programmato? Come mi inscrivo?](#perché-alcuni-esami-sono-ad-accesso-programmato-come-mi-inscrivo)
   - [Materie fatte in carriere precedenti possono valere come crediti liberi?](#materie-fatte-in-carriere-precedenti-possono-valere-come-crediti-liberi)
 
-- *** [Aiuto? Come posso strutturare i miei corsi?](#aiuto-come-posso-strutturare-i-miei-corsi)
+- ***[Aiuto? Come posso strutturare i miei corsi?](#aiuto-come-posso-strutturare-i-miei-corsi)
 	- [Indicazioni generali](#indicazioni-generali)
 	- [Curriculum Generale](#Curriculum-Generale)
 		- [Curriculum Generale, classe L8, percorso 1](#curriculum-generale-classe-l8-percorso-1)
