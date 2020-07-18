@@ -15,7 +15,7 @@
 
   
 - ***[Classi](#classi)***
-  - [Che differenza c’è tra le varie classi?](#che-differenza-cè-tra-le-classi)
+  - [Che differenza c’è tra le varie classi?](#che-differenza-cè-tra-le-varie-classi)
     - [Si, ma quindi oltre a questo a me cosa cambiano ste "classi?"](#si-ma-quindi-oltre-a-questo-a-me-cosa-cambiano-le-classi)
 
   - [Come si fa a cambiare la classe?](#come-si-fa-a-cambiare-la-classe)
