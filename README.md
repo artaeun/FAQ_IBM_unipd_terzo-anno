@@ -2,7 +2,7 @@
 
 ## Indice:
 - [Dove trovo tutte le info?](#dove-trovo-informazioni-sugli-esami-che-posso-teneresemestri-delle-lezionidocenti-del-corsosyllabuspercorso-formativo)
-- ***Curriculum***
+- ***[Curriculum](#curriculum)***
   - [Che curriculum e classe sono?](#come-faccio-a-sapere-che-classe-e-curriculum-sono)
   - [Quali sono gli esami obbligatori?](#quali-sono-gli-esami-obbligatori)
   - [Che differenza c’è tra i due curriculum?](#che-differenza-cè-tra-i-due-curriculum)
@@ -14,14 +14,14 @@
      - [Posso cambiare cambiare curriculum in qualsiasi momento/anno di studio?](#posso-cambiare-cambiare-curriculum-in-qualsiasi-momentoanno-di-studio)
 
   
-- ***Classi***
+- ***[Classi](#classi)***
   - [Che differenza c’è tra le varie classi?](#che-differenza-cè-tra-le-classi)
     - [Si, ma quindi oltre a questo a me cosa cambiano ste "classi?"](#si-ma-quindi-oltre-a-questo-a-me-cosa-cambiano-le-classi)
 
   - [Come si fa a cambiare la classe?](#come-si-fa-a-cambiare-la-classe)
     - [Posso cambiare cambiare la classe in qualsiasi momento/anno di studio?](#posso-cambiare-cambiare-la-classe-in-qualsiasi-momentoanno-di-studio)
   
-- ***Piano di studi***
+- ***[Piano di studi](#piano-di-studi)***
   - [Quando si compila il piano di studi?](#quando-si-compila-il-piano-di-studi)
   - [Che differenza c’è tra i 15 CPU vincolati e quelli liberi?](#che-differenza-cè-tra-i-15-cpu-vincolati-e-quelli-liberi)
     - [Quali sono gli esami a libera scelta?](#quali-sono-gli-esami-a-libera-scelta)
@@ -35,7 +35,7 @@ https://didattica.unipd.it/off/2018/LT/IN/IN2374
 
 ---
 
-## Curriculum
+## *Curriculum*
 
 ### **Come faccio a sapere che classe e curriculum sono?**
 Se vai su uniweb, in status studente, vedrai che sei impostato in una classe di laurea (L8 o L9). Facendo richiesta all’Ufficio Segreteria Carriere si può passare da una classe all’altra.
@@ -89,7 +89,7 @@ Conviene mandare una mail alla segreteria del DEI per avere conferma.
 
 ---
 
-## Classi
+## *Classi
 
 ### Che differenza c’è tra le varie classi?
 Le classi ti inquadrano (assieme al curriculum) nella scelta degli esami da dare per i **15 CFU a scelta vincolata** del terzo anno:
@@ -123,7 +123,7 @@ Conviene mandare una mail alla segreteria del DEI per avere conferma.
 
 ---
 
-## Piano di studi
+## *Piano di studi
 
 ### Quando si compila il piano di studi?
 Di solito da Dicembre a Settembre dell’anno successivo.
