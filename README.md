@@ -1,7 +1,7 @@
 # **<p align="center">Classe e Curriculum</p>**
 
 ## *Indice*:
-- [Dove trovo tutte le info?](#dove-trovo-informazioni-sugli-esami-che-posso-teneresemestri-delle-lezionidocenti-del-corsosyllabuspercorso-formativo)
+- [Dove trovo tutte queste informazioni?](#dove-trovo-informazioni-sugli-esami-che-posso-teneresemestri-delle-lezionidocenti-del-corsosyllabuspercorso-formativo)
 - ***[Curriculum](#curriculum)***
   - [Che curriculum e classe sono?](#come-faccio-a-sapere-che-classe-e-curriculum-sono)
   - [Quali sono gli esami obbligatori?](#quali-sono-gli-esami-obbligatori)
@@ -28,11 +28,21 @@
     - [Quali sono gli esami a libera scelta?](#quali-sono-gli-esami-a-libera-scelta)
   - [Materie fatte in carriere precedenti possono valere come crediti liberi?](#materie-fatte-in-carriere-precedenti-possono-valere-come-crediti-liberi)
 
+- *** [Aiuto? Come posso strutturare i miei corsi?](#aiuto-come-posso-strutturare-i-miei-corsi)
+	- [Indicazioni generali](#indicazioni-generali)
+	- [Curriculum Generale](#Curriculum-Generale)
+		- [Curriculum Generale, classe L8, percorso 1](#curriculum-generale-classe-l8-percorso-1)
+		- [Curriculum Generale, classe L9, percorso 2](#curriculum-generale-classe-l9-percorso-2)
+		- [Curriculum Generale, classe L8 o classe L9, percorso 3](#curriculum-generale-classe-l8-o-classe-l9-percorso-3)
+	- [Curriculum Curriculum Applicativo (con Tirocinio)](#curriculum-applicativo-con-tirocinio)
+		- [Curriculum Applicativo, classe L8, percorso 1](#curriculum-applicativo-classe-l8-percorso-1)
+		- [Curriculum Applicativo, classe L9, percorso 2](#curriculum-applicativo-classe-l9-percorso-2)
+		- [Curriculum Applicativo, classe L9, percorso 2-bis (in pratica percorso 3)](#curriculum-applicativo-classe-l9-percorso-2-bis-in-pratica-percorso-3)
 
 ---
 
 ### **Dove trovo informazioni sugli esami che posso tenere/semestri delle lezioni/docenti del corso/syllabus/percorso formativo?**
-https://didattica.unipd.it/off/2018/LT/IN/IN2374
+Trovi tutto qui: https://didattica.unipd.it/off/2018/LT/IN/IN2374
 
 ---
 
@@ -156,7 +166,7 @@ La "Guida alla compilazione del piano di studi" si trova qui: www.astro.unipd.it
 
   ---
   
-- ed esami che NON sono di Ingegneria Biomedica (ma che siano dell’ambito Ingegneristico) che siano stati sottomessi e approvati dalla Segreteria del DEI (la cui referente per le Carriere è la professoressa Saccomani https://www.dei.unipd.it/persona/0A7F06976D2D39F73AEDD095D97CF91A) attraverso il piano di studi ad approvazione. 
+- ed ***esami che NON sono di Ingegneria Biomedica*** (ma che siano dell’ambito Ingegneristico) che siano stati sottomessi e approvati dalla Segreteria del DEI (la cui referente per le Carriere è la professoressa Saccomani https://www.dei.unipd.it/persona/0A7F06976D2D39F73AEDD095D97CF91A) attraverso il piano di studi ad approvazione. 
 
 
 ### Quanti esami a libera scelta posso dare?
@@ -167,7 +177,7 @@ Se già approvati tramite domanda riconoscimento preventiva e già caricati a li
 
 ---
 
-## Aiuto? Come posso strutturare i miei corsi?
+## *Aiuto? Come posso strutturare i miei corsi?*
 
 ### Indicazioni generali:
 
