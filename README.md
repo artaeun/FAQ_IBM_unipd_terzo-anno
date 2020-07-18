@@ -1,4 +1,4 @@
-H1 **<p align="center">Classe e Curriculum</p>**
+# **<p align="center">Classe e Curriculum</p>**
 
 ## Indice:
 - [Dove trovo tutte le info?](#dove-trovo-informazioni-sugli-esami-che-posso-teneresemestri-delle-lezionidocenti-del-corsosyllabuspercorso-formativo)
