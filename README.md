@@ -1,5 +1,9 @@
 # **Classe e Curriculum**
 
+
+Indice:
+- [Dove trovo tutte le info?](https://github.com/artaeun/FAQ_IBM_unipd_terzo-anno#cosa-faccio-a-sapere-che-classe-e-curriculum-sono)
+
 ## **Dove trovo informazioni sugli esami che posso tenere/semestri delle lezioni/docenti del corso/syllabus/percorso formativo?**
 https://didattica.unipd.it/off/2018/LT/IN/IN2374
 
