@@ -191,7 +191,7 @@ Tutti quelli della lista seguente (escludendo quelli che sono vincolati, e quind
 - Meccanica Per Bioingegneria (9 CFU)
 - Laboratorio di Ingegneria Cellulare (6 CFU)
 - Misure ed Acquisizione di Dati Biomedici (6 CFU)
-- Project Managment (6 CFU) (ad [accesso programmato]())
+- Project Managment (6 CFU) (ad [accesso programmato](#perché-alcuni-esami-sono-ad-accesso-programmato-come-mi-inscrivo))
 
 ***Semestre 2***  
 - Informatica Medica (9 CFU)
