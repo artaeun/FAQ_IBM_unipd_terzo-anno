@@ -35,9 +35,11 @@ Il curriculum lo trovi sotto la voce **Percorso**.
 
 ### Quali sono gli esami obbligatori?
 Tutti del primo e del secondo anno. Del terzo anno sono obbligatori solo:
-- Fondamenti di automatica (9 CFU)
-- Biomeccanica (9 CFU)
-- Tecnologia e strumentazione biomedica (9 CFU)
+- Semestre 1
+  - Fondamenti di automatica (9 CFU)
+  - Biomeccanica (9 CFU)
+- Semestre 2
+  - Tecnologia e strumentazione biomedica (9 CFU)
 
 Poi ovviamente ci sono i 15 CFU a scelta vincolata e altri almeno 15 CFU liberi (anche 18, volendo, facendo due esami da 9 CFU o tre da 6 CFU).
 
