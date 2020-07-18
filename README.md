@@ -184,11 +184,9 @@ Di solito da Dicembre a Settembre dell’anno successivo. Trovi tutte le informa
 ---
 
 ### Che differenza c’è tra i 15 CFU vincolati e quelli liberi?
-Quelli vincolati li devi dare, definito dal percorso scelto, che a sua volta è definito dalla tua classe di appartenenza e dal curriculum di appartenenza.
+Quelli vincolati sono esami che vanno a bracetto (se dai uno devi dare anche l'altro) e sono definiti dal percorso scelto (nel piano di studi), che a sua volta è limitato dalla tua classe e dal curriculum. Sia la Classe che il Curriculum di appartenenza puoi trovarli in UniWeb sotto Status Studente, come visto in una delle prime domande di questa guida.
 
-Quelli a scelta libera (anche se di percorso diverso) possono essere comunque scelti come CFU liberi durante la compilazione del piano di studi. 
-
-Compilando il piano di studi le cose diventano molto più chiare.
+Quelli a scelta libera sono esami che puoi scegliere di dare tra quelli appartenenti (e non) alla facoltà di Ingegneria Biomedica, e valgono per il completamento del percorso accademico. Si possono registrare durante la compilazione del piano di studi. 
 
 ###### *<p align="right">[Torna all'indice](#indice)</p>*
 ---
