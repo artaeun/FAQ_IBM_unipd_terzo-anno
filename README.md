@@ -42,7 +42,7 @@
 		- [Curriculum *Applicativo*, classe **L8**, percorso 1](#curriculum-applicativo-classe-l8-percorso-1)
 		- [Curriculum *Applicativo*, classe **L9**, percorso 2](#curriculum-applicativo-classe-l9-percorso-2)
 		- [Curriculum *Applicativo*, classe **L9**, percorso 2-bis (in pratica percorso 3)](#curriculum-applicativo-classe-l9-percorso-2-bis-in-pratica-percorso-3)
-- ***[Ho trovato un errore in questa guida. Come posso contribuire?]()***
+- ***[Ho trovato un errore in questa guida. Come posso contribuire?](ho-trovato-un-errore-in-questa-guida-come-posso-contribuire)***
 ---
 
 ### **Dove trovo informazioni sugli esami che posso tenere/semestri delle lezioni/docenti del corso/syllabus/percorso formativo?**
@@ -496,4 +496,4 @@ In caso di dubbi rivedere le [indicazioni generale](#indicazioni-generali).
  ---
    
  ## **<p align="center">Ho trovato un errore in questa guida. Come posso contribuire?</p>** 
-Se sei famigliare con GitHub sai già rispondere a questa domanda. Altrimenti puoi mandarmi una mail ad alexandru.mihailescu&studenti.unipd.it (metti una chiocciola al posto del ***&***) e vedrò di correggerlo al più presto.
+Se sei famigliare con GitHub sai già rispondere a questa domanda. Altrimenti puoi mandarmi una mail ad alexandru.mihailescu#studenti.unipd.it (metti una chiocciola al posto del ***#***) e vedrò di correggerlo al più presto.
