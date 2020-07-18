@@ -11,7 +11,7 @@
 - [Come si fa a cambiare il curriculum?](#come-si-fa-a-cambiare-il-curriculum)
 
 
-- [Che differenza c’è tra le varie classi?](#che-differenza-cè-tra-le-varie-classi)
+- [Che differenza c’è tra le varie classi?](#che-differenza-cè-tra-le-classi)
 - [Si, ma quindi oltre a questo a me cosa cambiano le classi?](#si-ma-quindi-oltre-a-questo-a-me-cosa-cambiano-le-classi)
 
 - [Come si fa a cambiare la classe?](#come-si-fa-a-cambiare-la-classe)
@@ -62,7 +62,7 @@ Termini e scadenze qua: https://www.unipd.it/cambio-curriculum
 
 
 
-### Che differenza c’è tra le “classi”?
+### Che differenza c’è tra le varie classi?
 Le classi ti inquadrano (assieme al curriculum) nella scelta degli esami da dare per i **15 CFU a scelta vincolata** del terzo anno:
 
 #### Per il CURRICULUM *Generale*:
