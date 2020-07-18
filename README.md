@@ -289,7 +289,7 @@ Quali esami devo dare al terzo anno?
 
 Di seguito l'elenco degli esami obbligatori, vincolati e liberi di ogni Curriculum, Classe e Percorso. 
 
-Consiglio di andare *in fondo all'indice* per cercare quello che interessa a voi. Se per caso trovate degli errori vi chiedo gentilmente di [segnalarmelo](#ho-trovato-un-errore-in-questa-guida-come-posso-contribuire)
+Consiglio di andare *in fondo all'indice* per cercare quello che interessa a voi. Se per caso trovate degli errori vi chiedo gentilmente di [segnalarmelo](#ho-trovato-un-errore-in-questa-guida-come-posso-contribuire).
 
 ###### *<p align="right">[Torna all'indice](#indice)</p>*
 ---
