@@ -359,7 +359,7 @@ In caso di dubbi rivedere le [indicazioni generale](#indicazioni-generali).
 	- Informatica Medica (9 CFU)
 	- Bioingegneria del movimento (6 CFU)
 	- Bioelettromagnetismo (6 CFU)
-	  - altri non appartenenti a IBM (vedere [qui](#posso-dare-altri-esami-che-non-siano-della-facoltà-di-ingegneria-biomedica-come-si-fa))
+	- altri non appartenenti a IBM (vedere [qui](#posso-dare-altri-esami-che-non-siano-della-facoltà-di-ingegneria-biomedica-come-si-fa))
 
 ###### *<p align="right">[Torna all'indice](#indice)</p>*
 ---
