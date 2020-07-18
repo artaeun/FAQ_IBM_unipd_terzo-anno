@@ -496,4 +496,4 @@ In caso di dubbi rivedere le [indicazioni generale](#indicazioni-generali).
  ---
    
  ## **<p align="center">Ho trovato un errore in questa guida. Come posso contribuire?</p>** 
-Se sei famigliare con GitHub sai già rispondere a questa domanda. Altrimenti puoi mandarmi una mail ad alexandru.mihailescu#studenti.unipd.it (metti una chiocciola al posto del ***#***) e vedrò di correggerlo al più presto.
+Se sei famigliare con GitHub sai già rispondere a questa domanda. Altrimenti puoi mandarmi una mail ad alexandru.mihailescu#studenti.unipd.it (metti una chiocciola al posto del **"#"**) e vedrò di correggerlo al più presto.
