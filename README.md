@@ -256,7 +256,7 @@ Che esami devo dare?
 
 	Per il curriculum applicativo il **Tirocinio** è vincolante, ma si può fare in un momento qualsiasi dell'anno e sapete che dura 2 mesi. L'importante è che rispetti i criteri stabiliti da UniPd. Trovate tutte le informazioni, linee guida e modalità  [qui](https://elearning.dei.unipd.it/mod/book/view.php?id=3&chapterid=37).
 	
-3. Si deve fare la somma (in un anno) di 15 crediti (o 18) tra gli esami liberi o anche tra gli esami non appartenenti ad IBM che siano stati sottomessi e approvati dalla Segreteria del DEI attraverso il piano di studi ad approvazione (in fondo a [questa domanda](#quali-sono-gli-esami-a-libera-scelta))). Quindi si possono avere:
+3. Si deve fare la somma (in un anno) di 15 crediti (o 18) tra gli esami liberi o anche tra gli esami non appartenenti ad IBM che siano stati sottomessi e approvati dalla Segreteria del DEI attraverso il piano di studi ad approvazione ([questa domanda](#posso-dare-altri-esami-che-non-siano-della-facoltà-di-ingegneria-biomedica-come-si-fa)) risponderà ai vostri dubbi). Quindi si possono avere:
   - Esame da 6 crediti + Esame 9 crediti
   - Esame da 9 crediti + Esame 9 crediti
   - Esame da 6 crediti + Esame 6 crediti + Esame 6 crediti
