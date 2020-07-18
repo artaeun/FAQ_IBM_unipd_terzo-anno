@@ -30,7 +30,7 @@
     - [Perché alcuni esami sono ad accesso programmato? Come mi inscrivo?](#perché-alcuni-esami-sono-ad-accesso-programmato-come-mi-inscrivo)
   - [Materie fatte in carriere precedenti possono valere come crediti liberi?](#materie-fatte-in-carriere-precedenti-possono-valere-come-crediti-liberi)
 
-- ***[Aiuto! Come posso strutturare i miei corsi?](#aiuto-come-posso-strutturare-i-miei-corsi)
+- ***[Aiuto! Come posso strutturare i miei corsi?](#aiuto-come-posso-strutturare-i-miei-corsi)***
 	- [Indicazioni generali](#indicazioni-generali)
 	- [Curriculum Generale](#Curriculum-Generale)
 		- [Curriculum Generale, classe L8, percorso 1](#curriculum-generale-classe-l8-percorso-1)
@@ -187,7 +187,11 @@ Puoi combinarli come ti pare, basta garantire   **15 ≤ CFU ≤ 18**
 ### Perché alcuni esami sono ad accesso programmato? Come mi inscrivo?
 
 Alcune materie a scelta libera hanno un numero limitato di posti, per favorire sia la qualità del corso o per evitare sovraffolamenti quando si ha una disponibilità limitata di aule o difficoltà a organizzare il tutto.
-Per parteciparvi bisogna sottoscrivere alla graduatoria che parte a settembre (che vale sia per il primo che per il secondo semestre, quindi se avete una materia del secondo semestre che volete seguire dovete comunque parteciparvi). Viene ogni anno mandata la mail dalla segreteria del dei con le istruzioni e modalità di accesso perciò possiamo solo consigliarvi di stare con gli occhi aperti.
+
+
+Per parteciparvi bisogna sottoscrivere alla graduatoria che parte a settembre (che vale sia per il primo che per il secondo semestre, quindi se avete una materia del secondo semestre che volete seguire dovete comunque parteciparvi). 
+
+Viene ogni anno mandata la mail (circa il 16 settembre) dalla segreteria del dei con le istruzioni e modalità di accesso perciò possiamo solo consigliarvi di stare con gli occhi aperti.
 
 ### Materie fatte in carriere precedenti possono valere come crediti liberi?
 Se già approvati tramite domanda riconoscimento preventiva e già caricati a libretto; verrà poi data possibilità di aggiungerli durante la compilazione del piano di studi.
