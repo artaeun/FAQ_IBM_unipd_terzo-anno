@@ -161,17 +161,17 @@ Tutti quelli della lista seguente (escludendo quelli che sono vincolati, e quind
 - Laboratorio di Ingegneria Cellulare (6 CFU)
 - Misure ed Acquisizione di Dati Biomedici (6 CFU)
 - Project Managment (6 CFU) (ad accesso programmato)
+
+***Semestre 2***  
+- Informatica Medica (9 CFU)
+- Bioingegneria del movimento (6 CFU)
+- Meccanica dei Materiali (9 CFU)
+- Bioelettromagnetismo (6 CFU)
 - altri non appartenenti a IBM (vedere [qui](#quali-sono-gli-esami-a-libera-scelta))
-  
-  ---
-  
-- BIOELETTROMAGNETISMO   (6 CFU)
-- MISURE ED ACQUISIZIONE DATI BIOMEDICI  (6 CFU)
-- PROJECT MANAGEMENT  (6 CFU)
 
   ---
   
-- sono inclusi in questa lista anche ***esami che NON sono di Ingegneria Biomedica***. Vedere la domanda successiva.
+- sono inclusi in questa lista anche ***esami che NON sono di Ingegneria Biomedica***. Vedere la domanda successiva per più informazioni.
 
 ### Posso dare altri esami che non siano della facoltà di Ingegneria Biomedica? Come si fa?
 
