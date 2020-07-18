@@ -287,7 +287,9 @@ Quali esami devo dare al terzo anno?
   - Esame da 9 crediti + Esame 9 crediti = 18 CFU
   - Esame da 6 crediti + Esame 6 crediti + Esame 6 crediti = 18 CFU
 
-Di seguito l'elenco degli esami obbligatori, vincolati e liberi di ogni Curriculum, Classe e Percorso. Consiglio di andare in fondo all'indice per cercare quello che vi interessa a voi.
+Di seguito l'elenco degli esami obbligatori, vincolati e liberi di ogni Curriculum, Classe e Percorso. 
+
+Consiglio di andare *in fondo all'indice* per cercare quello che interessa a voi. Se per caso trovate degli errori vi chiedo gentilmente di [segnalarmelo](#ho-trovato-un-errore-in-questa-guida-come-posso-contribuire)
 
 ###### *<p align="right">[Torna all'indice](#indice)</p>*
 ---
