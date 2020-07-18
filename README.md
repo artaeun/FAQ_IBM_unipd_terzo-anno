@@ -26,7 +26,7 @@
   - [Come si compila il piano di studi?](#come-si-compila-il-piano-di-studi)
   - [Che differenza c’è tra i 15 CFU vincolati e quelli liberi?](#che-differenza-cè-tra-i-15-cfu-vincolati-e-quelli-liberi)
     - [Quali sono gli esami a libera scelta?](#quali-sono-gli-esami-a-libera-scelta)
-  	-[Quanti esami a libera scelta posso dare?](#quanti-esami-a-libera-scelta-posso-dare)
+  	- [Quanti esami a libera scelta posso dare?](#quanti-esami-a-libera-scelta-posso-dare)
     - [Posso dare altri esami che non siano della facoltà di Ingegneria Biomedica? Come si fa?](#posso-dare-altri-esami-che-non-siano-della-facoltà-di-ingegneria-biomedica-come-si-fa)
     	
     - [Perché alcuni esami sono ad accesso programmato? Come mi inscrivo?](#perché-alcuni-esami-sono-ad-accesso-programmato-come-mi-inscrivo)
