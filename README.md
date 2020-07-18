@@ -2,25 +2,27 @@
 
 ## Indice:
 - [Dove trovo tutte le info?](#dove-trovo-informazioni-sugli-esami-che-posso-teneresemestri-delle-lezionidocenti-del-corsosyllabuspercorso-formativo)
-- [Che curriculum e classe sono?](#come-faccio-a-sapere-che-classe-e-curriculum-sono)
-- [Quali sono gli esami obbligatori?](#quali-sono-gli-esami-obbligatori)
-- [Che differenza c’è tra i due curriculum?](#che-differenza-cè-tra-i-due-curriculum)
-- [Il tirocinio è obbligatorio?](#il-tirocinio-se-seguo-il-curriculum-applicativo-è-obbligatorio)
-- [Sto facendo il curriculum generale, posso fare il tirocinio?](#sto-facendo-il-curriculum-generale-posso-fare-il-tirocinio)
-- [Come si fa a cambiare il curriculum?](#come-si-fa-a-cambiare-il-curriculum)
+- Curriculum
+  - [Che curriculum e classe sono?](#come-faccio-a-sapere-che-classe-e-curriculum-sono)
+  - [Quali sono gli esami obbligatori?](#quali-sono-gli-esami-obbligatori)
+  - [Che differenza c’è tra i due curriculum?](#che-differenza-cè-tra-i-due-curriculum)
+  - [Il tirocinio, se seguo il curriculum applicativo, è obbligatorio?](#il-tirocinio-se-seguo-il-curriculum-applicativo-è-obbligatorio)
+  - [Sto facendo il curriculum generale, posso fare il tirocinio?](#sto-facendo-il-curriculum-generale-posso-fare-il-tirocinio)
+  - [Come si fa a cambiare il curriculum?](#come-si-fa-a-cambiare-il-curriculum)
+  - [Posso cambiare cambiare curriculum in qualsiasi momento/anno di studio?]()
+  - [Fare un curriculum o l’altro limita l’accesso alla magistrale?](#fare-un-curriculum-o-laltro-limita-laccesso-alla-magistrale)
+  - [Fare il curriculum applicativo mi consente di togliere un qualsiasi esame?](#fare-il-curriculum-applicativo-mi-consente-di-togliere-un-qualsiasi-esame)
+- Classi
+  - [Che differenza c’è tra le varie classi?](#che-differenza-cè-tra-le-classi)
+  - [Si, ma quindi oltre a questo a me cosa cambiano le classi?](#si-ma-quindi-oltre-a-questo-a-me-cosa-cambiano-le-classi)
 
-
-- [Che differenza c’è tra le varie classi?](#che-differenza-cè-tra-le-classi)
-- [Si, ma quindi oltre a questo a me cosa cambiano le classi?](#si-ma-quindi-oltre-a-questo-a-me-cosa-cambiano-le-classi)
-
-- [Come si fa a cambiare la classe?](#come-si-fa-a-cambiare-la-classe)
-- [Posso cambiare cambiare la classe in qualsiasi momento/anno di studio?](#posso-cambiare-cambiare-la-classe-in-qualsiasi-momentoanno-di-studio)
-- [Fare un curriculum o l’altro limita l’accesso alla magistrale?](#fare-un-curriculum-o-laltro-limita-laccesso-alla-magistrale)
-- [Fare il curriculum applicativo mi consente di togliere un qualsiasi esame?](#fare-il-curriculum-applicativo-mi-consente-di-togliere-un-qualsiasi-esame)
-- [Quando si compila il piano di studi?](#quando-si-compila-il-piano-di-studi)
-- [Che differenza c’è tra i 15 CPU vincolati e quelli liberi?](#che-differenza-cè-tra-i-15-cpu-vincolati-e-quelli-liberi)
-- [Quali sono gli esami a libera scelta?](#quali-sono-gli-esami-a-libera-scelta)
-- [Materie fatte in carriere precedenti possono valere come crediti liberi?](#materie-fatte-in-carriere-precedenti-possono-valere-come-crediti-liberi)
+  - [Come si fa a cambiare la classe?](#come-si-fa-a-cambiare-la-classe)
+  - [Posso cambiare cambiare la classe in qualsiasi momento/anno di studio?](#posso-cambiare-cambiare-la-classe-in-qualsiasi-momentoanno-di-studio)
+- Piano di studi
+  - [Quando si compila il piano di studi?](#quando-si-compila-il-piano-di-studi)
+  - [Che differenza c’è tra i 15 CPU vincolati e quelli liberi?](#che-differenza-cè-tra-i-15-cpu-vincolati-e-quelli-liberi)
+  - [Quali sono gli esami a libera scelta?](#quali-sono-gli-esami-a-libera-scelta)
+  - [Materie fatte in carriere precedenti possono valere come crediti liberi?](#materie-fatte-in-carriere-precedenti-possono-valere-come-crediti-liberi)
 
 
 ---
@@ -61,6 +63,24 @@ Attualmente si compila il modulo di cambio curriculum e si manda via mail con un
 In presenza bisogna andare all’Ufficio carriere in via Lungoargine Piovego 2, serve il modulo e la fotocopia del documento di identità.
 Termini e scadenze qua: https://www.unipd.it/cambio-curriculum
 
+### Posso cambiare cambiare curriculum in qualsiasi momento/anno di studio?
+### Posso cambiare cambiare la classe in qualsiasi momento/anno di studio?
+Cioè dipende, perché c’è sempre un termine di scadenza che però in circostanze come quelle attuali (post pandemia) potrebbero essere estesi. 
+I termini di scadenza attuali sono presenti qua: https://www.unipd.it/cambio-curriculum (attualmente dal 15 luglio al 29 ottobre 2020)
+
+Conviene mandare una mail alla segreteria del DEI per avere conferma.
+
+### Fare un curriculum o l’altro limita l’accesso alla magistrale?
+No. E’ una laurea. Solo che con il tirocinio cerca di preparere un poco per il lavoro. Non c’entra niente con l’accesso alla magistrale. 
+
+### Fare il curriculum applicativo mi consente di togliere un qualsiasi esame?
+Non esattamente. Se sei parte di un curriculum o l’altro, puoi scegliere solo uno dei 3 percorsi indicati: 
+
+![curriculum](/img/curriculum.png)
+
+
+Di default, se non specifichi il tuo percorso, vieni assegnato al percorso 1.
+Facendo il piano di studi è molto più facile da capire.
 
 
 ### Che differenza c’è tra le varie classi?
@@ -88,25 +108,14 @@ Si manda via mail assieme a fotocopia del documento di identità a carriere.stud
 In presenza bisogna andare all’Ufficio carriere in via Lungoargine Piovego 2, serve il modulo e la fotocopia del documento di identità.
 
 ### Posso cambiare cambiare la classe in qualsiasi momento/anno di studio?
-Bho. Cioè dipende, perché c’è sempre un termine di scadenza che però in circostanze come quelle attuali (post pandemia) potrebbero essere estesi. I termini di scadenza attuali sono presenti qua: https://www.unipd.it/cambio-classe
+Cioè dipende, perché c’è sempre un termine di scadenza che però in circostanze come quelle attuali (post pandemia) potrebbero essere estesi. 
+I termini di scadenza attuali sono presenti qua: https://www.unipd.it/cambio-classe (attualmente dal 15 luglio al 29 ottobre 2020)
 
 Conviene mandare una mail alla segreteria del DEI per avere conferma.
 
-### Fare un curriculum o l’altro limita l’accesso alla magistrale?
-No. E’ una laurea. Solo che con il tirocinio cerca di preparere un poco per il lavoro. Non c’entra niente con l’accesso alla magistrale. 
-
-### Fare il curriculum applicativo mi consente di togliere un qualsiasi esame?
-Non esattamente. Se sei parte di un curriculum o l’altro, puoi scegliere solo uno dei 3 percorsi indicati: 
-
-![curriculum](/img/curriculum.png)
-
-
-Di default, se non specifichi il tuo percorso, vieni assegnato al percorso 1.
-Facendo il piano di studi è molto più facile da capire.
 
 ### Quando si compila il piano di studi?
 Di solito da Dicembre a Settembre dell’anno successivo.
-
 
 
 ### Che differenza c’è tra i 15 CPU vincolati e quelli liberi?
@@ -131,7 +140,7 @@ WEB_MANUALE.pdf
   
 - BIOELETTROMAGNETISMO   (6 CFU)
 - MISURE ED ACQUISIZIONE DATI BIOMEDICI  (6 CFU)
-PROJECT MANAGEMENT  (6 CFU)
+- PROJECT MANAGEMENT  (6 CFU)
 
   ---
   
