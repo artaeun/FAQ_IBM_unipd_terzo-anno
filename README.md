@@ -2,7 +2,7 @@
 
 ## *Indice*:
 - [Dove trovo tutte queste informazioni?](#dove-trovo-informazioni-sugli-esami-che-posso-teneresemestri-delle-lezionidocenti-del-corsosyllabuspercorso-formativo)
-- ***[Curriculum](#curriculum)***
+- ******
   - [Che curriculum e classe sono?](#come-faccio-a-sapere-che-classe-e-curriculum-sono)
   - [Quali sono gli esami obbligatori?](#quali-sono-gli-esami-obbligatori)
   - [Che differenza c’è tra i due curriculum?](#che-differenza-cè-tra-i-due-curriculum)
